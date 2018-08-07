@@ -3,3132 +3,4176 @@
     "index": 1,
     "country": "Japan",
     "city": "Tokyo",
-    "Population": "38,050,000"
+    "Population": "38,050,000",
+    "lat": "35.6895",
+    "lng": "139.69171"
   },
   {
     "index": 2,
     "country": "Indonesia",
     "city": "Jakarta",
-    "Population": "32,275,000"
+    "Population": "32,275,000",
+    "lat": "-6.21462",
+    "lng": "106.84513"
   },
   {
     "index": 3,
     "country": "India",
     "city": "Delhi",
-    "Population": "27,280,000"
+    "Population": "27,280,000",
+    "lat": "28.65195",
+    "lng": "77.23149"
   },
   {
     "index": 4,
     "country": "Philippines",
     "city": "Manila",
-    "Population": "24,650,000"
+    "Population": "24,650,000",
+    "lat": "14.6042",
+    "lng": "120.9822"
   },
   {
     "index": 5,
     "country": "South Korea",
     "city": "Seoul",
-    "Population": "24,210,000"
+    "Population": "24,210,000",
+    "lat": "37.566",
+    "lng": "126.9784"
   },
   {
     "index": 6,
     "country": "China",
     "city": "Shanghai",
-    "Population": "24,115,000"
+    "Population": "24,115,000",
+    "lat": "31.22222",
+    "lng": "121.45806"
   },
   {
     "index": 7,
     "country": "India",
     "city": "Mumbai",
-    "Population": "23,265,000"
+    "Population": "23,265,000",
+    "lat": "19.07283",
+    "lng": "72.88261"
   },
   {
     "index": 8,
     "country": "United States",
     "city": "New York",
-    "Population": "21,575,000"
+    "Population": "21,575,000",
+    "lat": "40.71427",
+    "lng": "-74.00597"
   },
   {
     "index": 9,
     "country": "China",
     "city": "Beijing",
-    "Population": "21,250,000"
+    "Population": "21,250,000",
+    "lat": "39.9075",
+    "lng": "116.39723"
   },
   {
     "index": 10,
     "country": "Brazil",
     "city": "Sao Paulo",
-    "Population": "21,100,000"
+    "Population": "21,100,000",
+    "lat": "-23.5475",
+    "lng": "-46.63611"
   },
   {
     "index": 11,
     "country": "Mexico",
     "city": "Mexico City",
-    "Population": "20,565,000"
+    "Population": "20,565,000",
+    "lat": "19.42847",
+    "lng": "-99.12766"
   },
   {
     "index": 12,
     "country": "China",
     "city": "Guangzhou",
-    "Population": "19,965,000"
+    "Population": "19,965,000",
+    "lat": "23.11667",
+    "lng": "113.25"
   },
   {
     "index": 13,
     "country": "Bangladesh",
     "city": "Dhaka",
-    "Population": "17,425,000"
+    "Population": "17,425,000",
+    "lat": "23.7104",
+    "lng": "90.40744"
   },
   {
     "index": 14,
     "country": "Japan",
     "city": "Osaka",
-    "Population": "17,165,000"
+    "Population": "17,165,000",
+    "lat": "34.69374",
+    "lng": "135.50218"
   },
   {
     "index": 15,
     "country": "Russia",
     "city": "Moscow",
-    "Population": "16,855,000"
+    "Population": "16,855,000",
+    "lat": "55.75222",
+    "lng": "37.61556"
   },
   {
     "index": 16,
     "country": "Egypt",
     "city": "Cairo",
-    "Population": "16,545,000"
+    "Population": "16,545,000",
+    "lat": "30.06263",
+    "lng": "31.24967"
   },
   {
     "index": 17,
     "country": "Thailand",
     "city": "Bangkok",
-    "Population": "15,975,000"
+    "Population": "15,975,000",
+    "lat": "13.75398",
+    "lng": "100.50144"
   },
   {
     "index": 18,
     "country": "United States",
     "city": "Los Angeles",
-    "Population": "15,620,000"
+    "Population": "15,620,000",
+    "lat": "34.05223",
+    "lng": "-118.24368"
   },
   {
     "index": 19,
     "country": "Argentina",
     "city": "Buenos Aires",
-    "Population": "15,520,000"
+    "Population": "15,520,000",
+    "lat": "-34.61315",
+    "lng": "-58.37723"
   },
   {
     "index": 20,
     "country": "India",
     "city": "Kolkata",
-    "Population": "15,095,000"
+    "Population": "15,095,000",
+    "lat": "22.56263",
+    "lng": "88.36304"
   },
   {
     "index": 21,
     "country": "Turkey",
     "city": "Istanbul",
-    "Population": "13,995,000"
+    "Population": "13,995,000",
+    "lat": "41.01384",
+    "lng": "28.94966"
   },
   {
     "index": 22,
     "country": "Iran",
     "city": "Tehran",
-    "Population": "13,945,000"
+    "Population": "13,945,000",
+    "lat": "35.69439",
+    "lng": "51.42151"
   },
   {
     "index": 23,
     "country": "Nigeria",
     "city": "Lagos",
-    "Population": "13,910,000"
+    "Population": "13,910,000",
+    "lat": "6.45407",
+    "lng": "3.39467"
   },
   {
     "index": 24,
     "country": "China",
     "city": "Tianjin",
-    "Population": "13,655,000"
+    "Population": "13,655,000",
+    "lat": "39.14222",
+    "lng": "117.17667"
   },
   {
     "index": 25,
     "country": "Pakistan",
     "city": "Karachi",
-    "Population": "13,255,000"
+    "Population": "13,255,000",
+    "lat": "24.8608",
+    "lng": "67.0104"
   },
   {
     "index": 26,
     "country": "China",
     "city": "Shenzhen",
-    "Population": "12,905,000"
+    "Population": "12,905,000",
+    "lat": "22.54554",
+    "lng": "114.0683"
   },
   {
     "index": 27,
-    "country": "Congo (Dem. Rep.)",
+    "country": "Democratic Republic of the Congo",
     "city": "Kinshasa",
-    "Population": "12,350,000"
+    "Population": "12,350,000",
+    "lat": "-4.32758",
+    "lng": "15.31357"
   },
   {
     "index": 28,
     "country": "Brazil",
     "city": "Rio de Janeiro",
-    "Population": "11,990,000"
+    "Population": "11,990,000",
+    "lat": "-22.90642",
+    "lng": "-43.18223"
   },
   {
     "index": 29,
     "country": "China",
     "city": "Chengdu",
-    "Population": "11,430,000"
+    "Population": "11,430,000",
+    "lat": "30.66667",
+    "lng": "104.06667"
   },
   {
     "index": 30,
     "country": "Peru",
     "city": "Lima",
-    "Population": "11,355,000"
+    "Population": "11,355,000",
+    "lat": "-12.04318",
+    "lng": "-77.02824"
   },
   {
     "index": 31,
     "country": "Pakistan",
     "city": "Lahore",
-    "Population": "11,070,000"
+    "Population": "11,070,000",
+    "lat": "31.558",
+    "lng": "74.35071"
   },
   {
     "index": 32,
     "country": "France",
     "city": "Paris",
-    "Population": "10,980,000"
+    "Population": "10,980,000",
+    "lat": "48.85341",
+    "lng": "2.3488"
   },
   {
     "index": 33,
     "country": "India",
     "city": "Bangalore",
-    "Population": "10,920,000"
+    "Population": "10,920,000",
+    "lat": "12.97194",
+    "lng": "77.59369"
   },
   {
     "index": 34,
-    "country": "Viet Nam",
+    "country": "Vietnam",
     "city": "Ho Chi Minh City",
-    "Population": "10,690,000"
+    "Population": "10,690,000",
+    "lat": "10.82302",
+    "lng": "106.62965"
   },
   {
     "index": 35,
     "country": "United Kingdom",
     "city": "London",
-    "Population": "10,585,000"
+    "Population": "10,585,000",
+    "lat": "51.50853",
+    "lng": "-0.12574"
   },
   {
     "index": 36,
     "country": "India",
     "city": "Chennai",
-    "Population": "10,555,000"
+    "Population": "10,555,000",
+    "lat": "13.08784",
+    "lng": "80.27847"
   },
   {
     "index": 37,
     "country": "Japan",
     "city": "Nagoya",
-    "Population": "10,105,000"
+    "Population": "10,105,000",
+    "lat": "35.18147",
+    "lng": "136.90641"
   },
   {
     "index": 38,
     "country": "Colombia",
     "city": "Bogota",
-    "Population": "9,965,000"
+    "Population": "9,965,000",
+    "lat": "4.60971",
+    "lng": "-74.08175"
   },
   {
     "index": 39,
     "country": "India",
     "city": "Hyderabad",
-    "Population": "9,595,000"
+    "Population": "9,595,000",
+    "lat": "17.38405",
+    "lng": "78.45636"
   },
   {
     "index": 40,
     "country": "United States",
     "city": "Chicago",
-    "Population": "9,160,000"
+    "Population": "9,160,000",
+    "lat": "41.85003",
+    "lng": "-87.65005"
   },
   {
     "index": 41,
     "country": "South Africa",
-    "city": "Johannesburg-East Rand",
-    "Population": "9,115,000"
+    "city": "Johannesburg",
+    "Population": "9,115,000",
+    "lat": "-26.20227",
+    "lng": "28.04363"
   },
   {
     "index": 42,
     "country": "China",
     "city": "Chongqing",
-    "Population": "8,875,000"
+    "Population": "8,875,000",
+    "lat": "29.56278",
+    "lng": "106.55278"
   },
   {
     "index": 43,
-    "country": "China: Taiwan",
+    "country": "Taiwan",
     "city": "Taipei",
-    "Population": "8,605,000"
+    "Population": "8,605,000",
+    "lat": "25.04776",
+    "lng": "121.53185"
   },
   {
     "index": 44,
     "country": "China",
     "city": "Dongguan",
-    "Population": "8,340,000"
+    "Population": "8,340,000",
+    "lat": "23.01797",
+    "lng": "113.74866"
   },
   {
     "index": 45,
-    "country": "Viet Nam",
+    "country": "Vietnam",
     "city": "Hanoi",
-    "Population": "8,140,000"
+    "Population": "8,140,000",
+    "lat": "21.0245",
+    "lng": "105.84117"
   },
   {
     "index": 46,
     "country": "China",
-    "city": "Shenyang-Fushun",
-    "Population": "8,095,000"
+    "city": "Shenyang",
+    "Population": "8,095,000",
+    "lat": "41.79222",
+    "lng": "123.43278"
   },
   {
     "index": 47,
     "country": "China",
     "city": "Wuhan",
-    "Population": "7,980,000"
+    "Population": "7,980,000",
+    "lat": "30.58333",
+    "lng": "114.26667"
   },
   {
     "index": 48,
     "country": "India",
     "city": "Ahmadabad",
-    "Population": "7,880,000"
+    "Population": "7,880,000",
+    "lat": "23.02579",
+    "lng": "72.58727"
   },
   {
     "index": 49,
     "country": "Nigeria",
     "city": "Onitsha",
-    "Population": "7,850,000"
+    "Population": "7,850,000",
+    "lat": "6.14978",
+    "lng": "6.78569"
   },
   {
     "index": 50,
     "country": "Malaysia",
     "city": "Kuala Lumpur",
-    "Population": "7,820,000"
+    "Population": "7,820,000",
+    "lat": "3.1412",
+    "lng": "101.68653"
   },
   {
     "index": 51,
     "country": "Angola",
     "city": "Luanda",
-    "Population": "7,560,000"
+    "Population": "7,560,000",
+    "lat": "-8.83682",
+    "lng": "13.23432"
   },
   {
     "index": 52,
-    "country": "China: Hong Kong\"7",
-    "city": 380,
-    "Population": "000\""
+    "country": "Hong Kong",
+    "city": "Hong Kong",
+    "Population": "7,380,000",
+    "lat": "22.27832",
+    "lng": "114.17469"
   },
   {
     "index": 53,
     "country": "United States",
     "city": "Boston",
-    "Population": "7,315,000"
+    "Population": "7,315,000",
+    "lat": "42.35843",
+    "lng": "-71.05977"
   },
   {
     "index": 54,
     "country": "Iraq",
     "city": "Baghdad",
-    "Population": "7,135,000"
+    "Population": "7,135,000",
+    "lat": "33.34058",
+    "lng": "44.40088"
   },
   {
     "index": 55,
     "country": "China",
     "city": "Hangzhou",
-    "Population": "7,100,000"
+    "Population": "7,100,000",
+    "lat": "30.29365",
+    "lng": "120.16142"
   },
   {
     "index": 56,
     "country": "China",
     "city": "Zhengzhou",
-    "Population": "7,005,000"
+    "Population": "7,005,000",
+    "lat": "34.75778",
+    "lng": "113.64861"
   },
   {
     "index": 57,
     "country": "China",
     "city": "Quanzhou",
-    "Population": "6,720,000"
+    "Population": "6,720,000",
+    "lat": "24.91389",
+    "lng": "118.58583"
   },
   {
     "index": 58,
     "country": "Germany",
-    "city": "Essen-Dusseldorf",
-    "Population": "6,665,000"
+    "city": "Essen",
+    "Population": "6,665,000",
+    "lat": "51.45657",
+    "lng": "7.01228"
   },
   {
     "index": 59,
     "country": "Canada",
     "city": "Toronto",
-    "Population": "6,635,000"
+    "Population": "6,635,000",
+    "lat": "43.70011",
+    "lng": "-79.4163"
   },
   {
     "index": 60,
     "country": "United States",
-    "city": "Dallas-Fort Worth",
-    "Population": "6,600,000"
+    "city": "Dallas",
+    "Population": "6,600,000",
+    "lat": "32.78306",
+    "lng": "-96.80667"
   },
   {
     "index": 61,
     "country": "United States",
-    "city": "San Francisco-San Jose",
-    "Population": "6,540,000"
+    "city": "San Francisco",
+    "Population": "6,540,000",
+    "lat": "37.77493",
+    "lng": "-122.41942"
   },
   {
     "index": 62,
     "country": "China",
     "city": "Nanjing",
-    "Population": "6,525,000"
+    "Population": "6,525,000",
+    "lat": "32.06167",
+    "lng": "118.77778"
   },
   {
     "index": 63,
     "country": "Spain",
     "city": "Madrid",
-    "Population": "6,385,000"
+    "Population": "6,385,000",
+    "lat": "40.4165",
+    "lng": "-3.70256"
   },
   {
     "index": 64,
     "country": "Chile",
     "city": "Santiago",
-    "Population": "6,350,000"
+    "Population": "6,350,000",
+    "lat": "-33.45694",
+    "lng": "-70.64827"
   },
   {
     "index": 65,
     "country": "United States",
     "city": "Houston",
-    "Population": "6,285,000"
+    "Population": "6,285,000",
+    "lat": "29.76328",
+    "lng": "-95.36327"
   },
   {
     "index": 66,
     "country": "Saudi Arabia",
     "city": "Riyadh",
-    "Population": "6,220,000"
+    "Population": "6,220,000",
+    "lat": "24.68773",
+    "lng": "46.72185"
   },
   {
     "index": 67,
     "country": "India",
     "city": "Surat",
-    "Population": "6,200,000"
+    "Population": "6,200,000",
+    "lat": "21.19594",
+    "lng": "72.83023"
   },
   {
     "index": 68,
     "country": "United States",
     "city": "Miami",
-    "Population": "6,195,000"
+    "Population": "6,195,000",
+    "lat": "25.77427",
+    "lng": "-80.19366"
   },
   {
     "index": 69,
     "country": "China",
     "city": "Suzhou",
-    "Population": "6,175,000"
+    "Population": "6,175,000",
+    "lat": "31.30408",
+    "lng": "120.59538"
   },
   {
     "index": 70,
     "country": "India",
     "city": "Pune",
-    "Population": "6,110,000"
+    "Population": "6,110,000",
+    "lat": "18.51957",
+    "lng": "73.85535"
   },
   {
     "index": 71,
     "country": "Indonesia",
     "city": "Bandung",
-    "Population": "5,945,000"
+    "Population": "5,945,000",
+    "lat": "-6.92222",
+    "lng": "107.60694"
   },
   {
     "index": 72,
     "country": "China",
     "city": "Qingdao",
-    "Population": "5,930,000"
+    "Population": "5,930,000",
+    "lat": "36.06488",
+    "lng": "120.38042"
   },
   {
     "index": 72,
     "country": "Singapore",
     "city": "Singapore",
-    "Population": "5,930,000"
+    "Population": "5,930,000",
+    "lat": "1.28967",
+    "lng": "103.85007"
   },
   {
     "index": 74,
     "country": "China",
     "city": "Xi'an",
-    "Population": "5,905,000"
+    "Population": "5,905,000",
+    "lat": "34.25833",
+    "lng": "108.92861"
   },
   {
     "index": 75,
     "country": "Kenya",
     "city": "Nairobi",
-    "Population": "5,765,000"
+    "Population": "5,765,000",
+    "lat": "-1.28333",
+    "lng": "36.81667"
   },
   {
     "index": 76,
     "country": "United States",
     "city": "Philadelphia",
-    "Population": "5,575,000"
+    "Population": "5,575,000",
+    "lat": "39.95233",
+    "lng": "-75.16379"
   },
   {
     "index": 77,
-    "country": "Myanmar",
+    "country": "Myanmar [Burma]",
     "city": "Yangon",
-    "Population": "5,550,000"
+    "Population": "5,550,000",
+    "lat": "16.80528",
+    "lng": "96.15611"
   },
   {
     "index": 78,
     "country": "Sudan",
     "city": "Khartoum",
-    "Population": "5,490,000"
+    "Population": "5,490,000",
+    "lat": "15.55177",
+    "lng": "32.53241"
   },
   {
     "index": 79,
     "country": "China",
     "city": "Fuzhou",
-    "Population": "5,400,000"
+    "Population": "5,400,000",
+    "lat": "26.06139",
+    "lng": "119.30611"
   },
   {
     "index": 80,
     "country": "United States",
     "city": "Atlanta",
-    "Population": "5,325,000"
+    "Population": "5,325,000",
+    "lat": "33.749",
+    "lng": "-84.38798"
   },
   {
     "index": 81,
     "country": "Italy",
     "city": "Milan",
-    "Population": "5,290,000"
+    "Population": "5,290,000",
+    "lat": "45.46427",
+    "lng": "9.18951"
   },
   {
     "index": 82,
     "country": "United States",
     "city": "Washington",
-    "Population": "5,180,000"
+    "Population": "5,180,000",
+    "lat": "38.89511",
+    "lng": "-77.03637"
   },
   {
     "index": 83,
     "country": "Russia",
     "city": "St. Petersburg",
-    "Population": "5,175,000"
+    "Population": "5,175,000",
+    "lat": "59.93863",
+    "lng": "30.31413"
   },
   {
     "index": 84,
-    "country": "Cote d'Ivoire",
+    "country": "Ivory Coast",
     "city": "Abidjan",
-    "Population": "5,145,000"
+    "Population": "5,145,000",
+    "lat": "5.30966",
+    "lng": "-4.01266"
   },
   {
     "index": 85,
     "country": "China",
     "city": "Harbin",
-    "Population": "5,115,000"
+    "Population": "5,115,000",
+    "lat": "45.75",
+    "lng": "126.65"
   },
   {
     "index": 86,
     "country": "Jordan",
     "city": "Amman",
-    "Population": "5,020,000"
+    "Population": "5,020,000",
+    "lat": "31.95522",
+    "lng": "35.94503"
   },
   {
     "index": 87,
     "country": "Tanzania",
     "city": "Dar es Salaam",
-    "Population": "4,980,000"
+    "Population": "4,980,000",
+    "lat": "-6.82349",
+    "lng": "39.26951"
   },
   {
     "index": 88,
     "country": "Egypt",
     "city": "Alexandria",
-    "Population": "4,960,000"
+    "Population": "4,960,000",
+    "lat": "31.20176",
+    "lng": "29.91582"
   },
   {
     "index": 89,
     "country": "Kuwait",
     "city": "Kuwait",
-    "Population": "4,860,000"
+    "Population": "4,860,000",
+    "lat": "29.5",
+    "lng": "47.75"
   },
   {
     "index": 90,
     "country": "Turkey",
     "city": "Ankara",
-    "Population": "4,850,000"
+    "Population": "4,850,000",
+    "lat": "39.91987",
+    "lng": "32.85427"
   },
   {
     "index": 91,
     "country": "Spain",
     "city": "Barcelona",
-    "Population": "4,840,000"
+    "Population": "4,840,000",
+    "lat": "41.38879",
+    "lng": "2.15899"
   },
   {
     "index": 92,
     "country": "Mexico",
     "city": "Guadalajara",
-    "Population": "4,830,000"
+    "Population": "4,830,000",
+    "lat": "20.66682",
+    "lng": "-103.39182"
   },
   {
     "index": 93,
     "country": "Brazil",
     "city": "Belo Horizonte",
-    "Population": "4,750,000"
+    "Population": "4,750,000",
+    "lat": "-19.92083",
+    "lng": "-43.93778"
   },
   {
     "index": 94,
     "country": "China",
     "city": "Dalian",
-    "Population": "4,600,000"
+    "Population": "4,600,000",
+    "lat": "38.91222",
+    "lng": "121.60222"
   },
   {
     "index": 95,
     "country": "China",
     "city": "Guiyang",
-    "Population": "4,480,000"
+    "Population": "4,480,000",
+    "lat": "26.58333",
+    "lng": "106.71667"
   },
   {
     "index": 96,
     "country": "China",
     "city": "Wenzhou",
-    "Population": "4,460,000"
+    "Population": "4,460,000",
+    "lat": "27.99942",
+    "lng": "120.66682"
   },
   {
     "index": 97,
     "country": "Morocco",
     "city": "Casablanca",
-    "Population": "4,410,000"
+    "Population": "4,410,000",
+    "lat": "33.58831",
+    "lng": "-7.61138"
   },
   {
     "index": 98,
     "country": "Australia",
     "city": "Sydney",
-    "Population": "4,390,000"
+    "Population": "4,390,000",
+    "lat": "-33.86785",
+    "lng": "151.20732"
   },
   {
     "index": 99,
     "country": "United States",
     "city": "Phoenix",
-    "Population": "4,365,000"
+    "Population": "4,365,000",
+    "lat": "33.44838",
+    "lng": "-112.07404"
   },
   {
     "index": 100,
     "country": "Indonesia",
     "city": "Surabaya",
-    "Population": "4,325,000"
+    "Population": "4,325,000",
+    "lat": "-7.24917",
+    "lng": "112.75083"
   },
   {
     "index": 101,
     "country": "Australia",
     "city": "Melbourne",
-    "Population": "4,305,000"
+    "Population": "4,305,000",
+    "lat": "-37.814",
+    "lng": "144.96332"
   },
   {
     "index": 102,
     "country": "Mexico",
     "city": "Monterrey",
-    "Population": "4,295,000"
+    "Population": "4,295,000",
+    "lat": "25.67507",
+    "lng": "-100.31847"
   },
   {
     "index": 103,
     "country": "China",
     "city": "Xiamen",
-    "Population": "4,265,000"
+    "Population": "4,265,000",
+    "lat": "24.47979",
+    "lng": "118.08187"
   },
   {
     "index": 104,
     "country": "Ghana",
     "city": "Accra",
-    "Population": "4,260,000"
+    "Population": "4,260,000",
+    "lat": "5.55602",
+    "lng": "-0.1969"
   },
   {
     "index": 105,
     "country": "Sri Lanka",
     "city": "Colombo",
-    "Population": "4,205,000"
+    "Population": "4,205,000",
+    "lat": "6.93194",
+    "lng": "79.84778"
   },
   {
     "index": 106,
     "country": "Pakistan",
-    "city": "Rawalpindi-Islamabad",
-    "Population": "4,155,000"
+    "city": "Islamabad",
+    "Population": "4,155,000",
+    "lat": "33.72148",
+    "lng": "73.04329"
   },
   {
     "index": 107,
     "country": "Germany",
     "city": "Berlin",
-    "Population": "4,120,000"
+    "Population": "4,120,000",
+    "lat": "52.52437",
+    "lng": "13.41053"
   },
   {
     "index": 108,
     "country": "China",
     "city": "Changsha",
-    "Population": "4,020,000"
+    "Population": "4,020,000",
+    "lat": "28.19874",
+    "lng": "112.97087"
   },
   {
     "index": 109,
     "country": "Colombia",
     "city": "Medellín",
-    "Population": "3,990,000"
+    "Population": "3,990,000",
+    "lat": "6.25184",
+    "lng": "-75.56359"
   },
   {
     "index": 109,
     "country": "United Arab Emirates",
     "city": "Dubai",
-    "Population": "3,990,000"
+    "Population": "3,990,000",
+    "lat": "25.0657",
+    "lng": "55.17128"
   },
   {
     "index": 111,
     "country": "Afghanistan",
     "city": "Kabul",
-    "Population": "3,980,000"
+    "Population": "3,980,000",
+    "lat": "34.52813",
+    "lng": "69.17233"
   },
   {
     "index": 111,
     "country": "South Africa",
     "city": "Cape Town",
-    "Population": "3,980,000"
+    "Population": "3,980,000",
+    "lat": "-33.92584",
+    "lng": "18.42322"
   },
   {
     "index": 113,
     "country": "Saudi Arabia",
     "city": "Jiddah",
-    "Population": "3,975,000"
+    "Population": "3,975,000",
+    "lat": "21.63333",
+    "lng": "39.2"
   },
   {
     "index": 114,
     "country": "Italy",
     "city": "Rome",
-    "Population": "3,970,000"
+    "Population": "3,970,000",
+    "lat": "41.89193",
+    "lng": "12.51133"
   },
   {
     "index": 115,
     "country": "China",
     "city": "Jinan",
-    "Population": "3,940,000"
+    "Population": "3,940,000",
+    "lat": "36.66833",
+    "lng": "116.99722"
   },
   {
     "index": 116,
     "country": "China",
     "city": "Taiyuan",
-    "Population": "3,930,000"
+    "Population": "3,930,000",
+    "lat": "37.86944",
+    "lng": "112.56028"
   },
   {
     "index": 117,
     "country": "China",
     "city": "Kunming",
-    "Population": "3,895,000"
+    "Population": "3,895,000",
+    "lat": "25.03889",
+    "lng": "102.71833"
   },
   {
     "index": 118,
     "country": "Syria",
     "city": "Aleppo",
-    "Population": "3,890,000"
+    "Population": "3,890,000",
+    "lat": "36.20124",
+    "lng": "37.16117"
   },
   {
     "index": 119,
     "country": "Nigeria",
     "city": "Kano",
-    "Population": "3,875,000"
+    "Population": "3,875,000",
+    "lat": "12.00012",
+    "lng": "8.51672"
   },
   {
     "index": 120,
     "country": "China",
     "city": "Hefei",
-    "Population": "3,865,000"
+    "Population": "3,865,000",
+    "lat": "31.86389",
+    "lng": "117.28083"
   },
   {
     "index": 121,
     "country": "United States",
     "city": "Seattle",
-    "Population": "3,860,000"
+    "Population": "3,860,000",
+    "lat": "47.60621",
+    "lng": "-122.33207"
   },
   {
     "index": 122,
     "country": "China",
     "city": "Wuxi",
-    "Population": "3,825,000"
+    "Population": "3,825,000",
+    "lat": "31.56887",
+    "lng": "120.28857"
   },
   {
     "index": 123,
     "country": "Dominican Republic",
     "city": "Santo Domingo",
-    "Population": "3,815,000"
+    "Population": "3,815,000",
+    "lat": "18.47186",
+    "lng": "-69.89232"
   },
   {
     "index": 124,
     "country": "Algeria",
     "city": "Algiers",
-    "Population": "3,790,000"
+    "Population": "3,790,000",
+    "lat": "36.73225",
+    "lng": "3.08746"
   },
   {
     "index": 125,
     "country": "China",
     "city": "Changzhou",
-    "Population": "3,770,000"
+    "Population": "3,770,000",
+    "lat": "31.77359",
+    "lng": "119.95401"
   },
   {
     "index": 126,
     "country": "China",
     "city": "Shijiazhuang",
-    "Population": "3,765,000"
+    "Population": "3,765,000",
+    "lat": "38.04139",
+    "lng": "114.47861"
   },
   {
     "index": 127,
     "country": "China",
     "city": "Ningbo",
-    "Population": "3,735,000"
+    "Population": "3,735,000",
+    "lat": "29.87819",
+    "lng": "121.54945"
   },
   {
     "index": 128,
     "country": "United States",
     "city": "Detroit",
-    "Population": "3,730,000"
+    "Population": "3,730,000",
+    "lat": "42.33143",
+    "lng": "-83.04575"
   },
   {
     "index": 129,
     "country": "Italy",
     "city": "Naples",
-    "Population": "3,695,000"
+    "Population": "3,695,000",
+    "lat": "40.85216",
+    "lng": "14.26811"
   },
   {
     "index": 130,
     "country": "India",
     "city": "Jaipur",
-    "Population": "3,670,000"
+    "Population": "3,670,000",
+    "lat": "26.91962",
+    "lng": "75.78781"
   },
   {
     "index": 131,
     "country": "Ethiopia",
     "city": "Addis Ababa",
-    "Population": "3,650,000"
+    "Population": "3,650,000",
+    "lat": "9.02497",
+    "lng": "38.74689"
   },
   {
     "index": 132,
     "country": "China",
-    "city": "Zhangjiaggang",
-    "Population": "3,595,000"
+    "city": "Zhangjiagang",
+    "Population": "3,595,000",
+    "lat": "31.865",
+    "lng": "120.53889"
   },
   {
     "index": 133,
     "country": "Canada",
-    "city": "Montréal",
-    "Population": "3,585,000"
+    "city": "Montreal",
+    "Population": "3,585,000",
+    "lat": "45.50884",
+    "lng": "-73.58781"
   },
   {
     "index": 134,
     "country": "Brazil",
     "city": "Fortaleza",
-    "Population": "3,580,000"
+    "Population": "3,580,000",
+    "lat": "-3.71722",
+    "lng": "-38.54306"
   },
   {
     "index": 135,
     "country": "China",
     "city": "Changchun",
-    "Population": "3,575,000"
+    "Population": "3,575,000",
+    "lat": "43.88",
+    "lng": "125.32278"
   },
   {
     "index": 135,
     "country": "China",
     "city": "Urumqi",
-    "Population": "3,575,000"
+    "Population": "3,575,000",
+    "lat": "43.80096",
+    "lng": "87.60046"
   },
   {
     "index": 135,
     "country": "China",
     "city": "Zhongshan",
-    "Population": "3,575,000"
+    "Population": "3,575,000",
+    "lat": "21.31992",
+    "lng": "110.5723"
   },
   {
     "index": 138,
     "country": "Iran",
     "city": "Mashhad",
-    "Population": "3,535,000"
+    "Population": "3,535,000",
+    "lat": "36.31559",
+    "lng": "59.56796"
   },
   {
     "index": 139,
     "country": "Cameroon",
     "city": "Yaounde",
-    "Population": "3,525,000"
+    "Population": "3,525,000",
+    "lat": "3.86667",
+    "lng": "11.51667"
   },
   {
     "index": 140,
     "country": "South Africa",
     "city": "Durban",
-    "Population": "3,515,000"
+    "Population": "3,515,000",
+    "lat": "-29.8579",
+    "lng": "31.0292"
   },
   {
     "index": 141,
     "country": "Brazil",
     "city": "Porto Alegre",
-    "Population": "3,485,000"
+    "Population": "3,485,000",
+    "lat": "-30.03306",
+    "lng": "-51.23"
   },
   {
     "index": 142,
     "country": "Greece",
     "city": "Athens",
-    "Population": "3,470,000"
+    "Population": "3,470,000",
+    "lat": "37.97945",
+    "lng": "23.71622"
   },
   {
     "index": 143,
     "country": "Israel",
     "city": "Tel Aviv",
-    "Population": "3,465,000"
+    "Population": "3,465,000",
+    "lat": "32.08088",
+    "lng": "34.78057"
   },
   {
     "index": 144,
     "country": "Mali",
     "city": "Bamako",
-    "Population": "3,455,000"
+    "Population": "3,455,000",
+    "lat": "12.65",
+    "lng": "-8"
   },
   {
     "index": 145,
     "country": "Senegal",
     "city": "Dakar",
-    "Population": "3,450,000"
+    "Population": "3,450,000",
+    "lat": "14.6937",
+    "lng": "-17.44406"
   },
   {
     "index": 146,
     "country": "Brazil",
     "city": "Recife",
-    "Population": "3,440,000"
+    "Population": "3,440,000",
+    "lat": "-8.05389",
+    "lng": "-34.88111"
   },
   {
     "index": 147,
     "country": "Yemen",
     "city": "Sana",
-    "Population": "3,425,000"
+    "Population": "3,425,000",
+    "lat": "15.35472",
+    "lng": "44.20667"
   },
   {
     "index": 148,
     "country": "India",
     "city": "Lucknow",
-    "Population": "3,415,000"
+    "Population": "3,415,000",
+    "lat": "26.83928",
+    "lng": "80.92313"
   },
   {
     "index": 149,
     "country": "Bangladesh",
     "city": "Chittagong",
-    "Population": "3,400,000"
+    "Population": "3,400,000",
+    "lat": "22.3384",
+    "lng": "91.83168"
   },
   {
     "index": 150,
     "country": "Indonesia",
     "city": "Medan",
-    "Population": "3,350,000"
+    "Population": "3,350,000",
+    "lat": "3.58333",
+    "lng": "98.66667"
   },
   {
     "index": 151,
     "country": "Brazil",
     "city": "Salvador",
-    "Population": "3,310,000"
+    "Population": "3,310,000",
+    "lat": "-12.97111",
+    "lng": "-38.51083"
   },
   {
     "index": 151,
     "country": "Cameroon",
     "city": "Douala",
-    "Population": "3,310,000"
+    "Population": "3,310,000",
+    "lat": "4.04827",
+    "lng": "9.70428"
   },
   {
     "index": 153,
     "country": "Pakistan",
     "city": "Faisalabad",
-    "Population": "3,305,000"
+    "Population": "3,305,000",
+    "lat": "31.41554",
+    "lng": "73.08969"
   },
   {
     "index": 154,
     "country": "Brazil",
     "city": "Brasilia",
-    "Population": "3,300,000"
+    "Population": "3,300,000",
+    "lat": "-10",
+    "lng": "-55"
   },
   {
     "index": 155,
     "country": "Brazil",
     "city": "Curitiba",
-    "Population": "3,280,000"
+    "Population": "3,280,000",
+    "lat": "-25.42778",
+    "lng": "-49.27306"
   },
   {
     "index": 155,
     "country": "Turkey",
     "city": "Izmir",
-    "Population": "3,280,000"
+    "Population": "3,280,000",
+    "lat": "38.41273",
+    "lng": "27.13838"
   },
   {
     "index": 157,
     "country": "United States",
     "city": "San Diego",
-    "Population": "3,255,000"
+    "Population": "3,255,000",
+    "lat": "32.71571",
+    "lng": "-117.16472"
   },
   {
     "index": 158,
     "country": "Ghana",
     "city": "Kumasi",
-    "Population": "3,250,000"
+    "Population": "3,250,000",
+    "lat": "6.68848",
+    "lng": "-1.62443"
   },
   {
     "index": 159,
     "country": "South Africa",
     "city": "Pretoria",
-    "Population": "3,245,000"
+    "Population": "3,245,000",
+    "lat": "-25.74486",
+    "lng": "28.18783"
   },
   {
     "index": 160,
     "country": "Burkina Faso",
     "city": "Ouagadougou",
-    "Population": "3,225,000"
+    "Population": "3,225,000",
+    "lat": "12.36566",
+    "lng": "-1.53388"
   },
   {
     "index": 160,
     "country": "South Korea",
     "city": "Busan",
-    "Population": "3,225,000"
+    "Population": "3,225,000",
+    "lat": "35.10278",
+    "lng": "129.04028"
   },
   {
     "index": 162,
     "country": "India",
     "city": "Kanpur",
-    "Population": "3,130,000"
+    "Population": "3,130,000",
+    "lat": "26.46523",
+    "lng": "80.34975"
   },
   {
     "index": 163,
     "country": "Nigeria",
     "city": "Ibadan",
-    "Population": "3,070,000"
+    "Population": "3,070,000",
+    "lat": "7.37756",
+    "lng": "3.90591"
   },
   {
     "index": 164,
     "country": "China",
     "city": "Nanning",
-    "Population": "2,965,000"
+    "Population": "2,965,000",
+    "lat": "22.81667",
+    "lng": "108.31667"
   },
   {
     "index": 164,
     "country": "Nepal",
     "city": "Kathmandu",
-    "Population": "2,965,000"
+    "Population": "2,965,000",
+    "lat": "27.70169",
+    "lng": "85.3206"
   },
   {
     "index": 166,
     "country": "China",
     "city": "Nanchang",
-    "Population": "2,935,000"
+    "Population": "2,935,000",
+    "lat": "28.68396",
+    "lng": "115.85306"
   },
   {
     "index": 167,
     "country": "Zambia",
     "city": "Lusaka",
-    "Population": "2,920,000"
+    "Population": "2,920,000",
+    "lat": "-15.40669",
+    "lng": "28.28713"
   },
   {
     "index": 168,
     "country": "China",
     "city": "Lanzhou",
-    "Population": "2,890,000"
+    "Population": "2,890,000",
+    "lat": "36.05701",
+    "lng": "103.83987"
   },
   {
     "index": 168,
     "country": "Ecuador",
     "city": "Guayaquil",
-    "Population": "2,890,000"
+    "Population": "2,890,000",
+    "lat": "-2.19616",
+    "lng": "-79.88621"
   },
   {
     "index": 168,
     "country": "Venezuela",
     "city": "Caracas",
-    "Population": "2,890,000"
+    "Population": "2,890,000",
+    "lat": "10.48801",
+    "lng": "-66.87919"
   },
   {
     "index": 171,
     "country": "North Korea",
     "city": "Pyongyang",
-    "Population": "2,885,000"
+    "Population": "2,885,000",
+    "lat": "39.03385",
+    "lng": "125.75432"
   },
   {
     "index": 171,
     "country": "United States",
-    "city": "Minneapolis-St. Paul",
-    "Population": "2,885,000"
+    "city": "Minneapolis",
+    "Population": "2,885,000",
+    "lat": "44.97997",
+    "lng": "-93.26384"
   },
   {
     "index": 173,
     "country": "Azerbaijan",
     "city": "Baku",
-    "Population": "2,865,000"
+    "Population": "2,865,000",
+    "lat": "40.37767",
+    "lng": "49.89201"
   },
   {
     "index": 174,
     "country": "Paraguay",
     "city": "Asuncion",
-    "Population": "2,860,000"
+    "Population": "2,860,000",
+    "lat": "-25.30066",
+    "lng": "-57.63591"
   },
   {
     "index": 175,
     "country": "China",
     "city": "Chaoyang",
-    "Population": "2,855,000"
+    "Population": "2,855,000",
+    "lat": "41.57028",
+    "lng": "120.45861"
   },
   {
     "index": 176,
     "country": "Haiti",
     "city": "Port-au-Prince",
-    "Population": "2,850,000"
+    "Population": "2,850,000",
+    "lat": "18.54349",
+    "lng": "-72.33881"
   },
   {
     "index": 177,
     "country": "Ukraine",
     "city": "Kiyev",
-    "Population": "2,845,000"
+    "Population": "2,845,000",
+    "lat": "50.45466",
+    "lng": "30.5238"
   },
   {
     "index": 178,
     "country": "India",
     "city": "Nagpur",
-    "Population": "2,805,000"
+    "Population": "2,805,000",
+    "lat": "21.14631",
+    "lng": "79.08491"
   },
   {
     "index": 179,
     "country": "Brazil",
     "city": "Campinas",
-    "Population": "2,770,000"
+    "Population": "2,770,000",
+    "lat": "-22.90556",
+    "lng": "-47.06083"
   },
   {
     "index": 180,
     "country": "India",
     "city": "Coimbatore",
-    "Population": "2,760,000"
+    "Population": "2,760,000",
+    "lat": "11.00555",
+    "lng": "76.96612"
   },
   {
     "index": 181,
     "country": "United States",
     "city": "Denver",
-    "Population": "2,755,000"
+    "Population": "2,755,000",
+    "lat": "39.73915",
+    "lng": "-104.9847"
   },
   {
     "index": 182,
     "country": "Mozambique",
     "city": "Maputo",
-    "Population": "2,735,000"
+    "Population": "2,735,000",
+    "lat": "-25.96553",
+    "lng": "32.58322"
   },
   {
     "index": 183,
     "country": "United States",
-    "city": "Tampa-St. Petersburg",
-    "Population": "2,720,000"
+    "city": "Tampa",
+    "Population": "2,720,000",
+    "lat": "27.94752",
+    "lng": "-82.45843"
   },
   {
     "index": 184,
     "country": "Portugal",
     "city": "Lisbon",
-    "Population": "2,715,000"
+    "Population": "2,715,000",
+    "lat": "38.71667",
+    "lng": "-9.13333"
   },
   {
     "index": 185,
     "country": "India",
     "city": "Kozhikode",
-    "Population": "2,710,000"
+    "Population": "2,710,000",
+    "lat": "11.24802",
+    "lng": "75.7804"
   },
   {
     "index": 186,
     "country": "United Kingdom",
     "city": "Manchester",
-    "Population": "2,705,000"
+    "Population": "2,705,000",
+    "lat": "53.45",
+    "lng": "-2.23333"
   },
   {
     "index": 187,
     "country": "Syria",
     "city": "Damascus",
-    "Population": "2,690,000"
+    "Population": "2,690,000",
+    "lat": "33.5102",
+    "lng": "36.29128"
   },
   {
     "index": 188,
     "country": "Madagascar",
     "city": "Antananarivo",
-    "Population": "2,685,000"
+    "Population": "2,685,000",
+    "lat": "-18.91368",
+    "lng": "47.53613"
   },
   {
     "index": 189,
     "country": "Netherlands",
-    "city": "Rotterdam-Hague",
-    "Population": "2,675,000"
+    "city": "Rotterdam",
+    "Population": "2,675,000",
+    "lat": "51.9225",
+    "lng": "4.47917"
   },
   {
     "index": 190,
     "country": "China",
     "city": "Linyi",
-    "Population": "2,640,000"
+    "Population": "2,640,000",
+    "lat": "35.06306",
+    "lng": "118.34278"
   },
   {
     "index": 190,
     "country": "Uganda",
     "city": "Kampala",
-    "Population": "2,640,000"
+    "Population": "2,640,000",
+    "lat": "0.31628",
+    "lng": "32.58219"
   },
   {
     "index": 191,
     "country": "Japan",
     "city": "Fukuoka",
-    "Population": "2,635,000"
+    "Population": "2,635,000",
+    "lat": "33.6",
+    "lng": "130.41667"
   },
   {
     "index": 192,
     "country": "Philippines",
     "city": "Cebu",
-    "Population": "2,635,000"
+    "Population": "2,635,000",
+    "lat": "10.31672",
+    "lng": "123.89071"
   },
   {
     "index": 194,
     "country": "China",
     "city": "Shaoxing",
-    "Population": "2,615,000"
+    "Population": "2,615,000",
+    "lat": "30.00237",
+    "lng": "120.57864"
   },
   {
     "index": 195,
     "country": "Nigeria",
     "city": "Abuja",
-    "Population": "2,605,000"
+    "Population": "2,605,000",
+    "lat": "9.05785",
+    "lng": "7.49508"
   },
   {
     "index": 196,
     "country": "China",
     "city": "Zibo",
-    "Population": "2,600,000"
+    "Population": "2,600,000",
+    "lat": "36.79056",
+    "lng": "118.06333"
   },
   {
     "index": 196,
     "country": "India",
     "city": "Indore",
-    "Population": "2,600,000"
+    "Population": "2,600,000",
+    "lat": "22.71792",
+    "lng": "75.8333"
   },
   {
     "index": 198,
-    "country": "China: Taiwan",
+    "country": "Taiwan",
     "city": "Taichung",
-    "Population": "2,595,000"
+    "Population": "2,595,000",
+    "lat": "24.1469",
+    "lng": "120.6839"
   },
   {
     "index": 199,
     "country": "China",
     "city": "Tangshan",
-    "Population": "2,590,000"
+    "Population": "2,590,000",
+    "lat": "39.63333",
+    "lng": "118.18333"
   },
   {
     "index": 199,
     "country": "Somalia",
     "city": "Mogadishu",
-    "Population": "2,590,000"
+    "Population": "2,590,000",
+    "lat": "2.03711",
+    "lng": "45.34375"
   },
   {
     "index": 201,
     "country": "India",
     "city": "Kochi",
-    "Population": "2,585,000"
+    "Population": "2,585,000",
+    "lat": "9.93988",
+    "lng": "76.26022"
   },
   {
     "index": 202,
     "country": "India",
     "city": "Thrissur",
-    "Population": "2,575,000"
+    "Population": "2,575,000",
+    "lat": "10.51667",
+    "lng": "76.21667"
   },
   {
     "index": 203,
     "country": "China",
     "city": "Yinchuan",
-    "Population": "2,570,000"
+    "Population": "2,570,000",
+    "lat": "38.46806",
+    "lng": "106.27306"
   },
   {
     "index": 204,
     "country": "United Kingdom",
     "city": "Birmingham",
-    "Population": "2,565,000"
+    "Population": "2,565,000",
+    "lat": "52.48142",
+    "lng": "-1.89983"
   },
   {
     "index": 205,
-    "country": "China: Taiwan",
+    "country": "Taiwan",
     "city": "Kaohsiung",
-    "Population": "2,555,000"
+    "Population": "2,555,000",
+    "lat": "22.61626",
+    "lng": "120.31333"
   },
   {
     "index": 206,
     "country": "Colombia",
     "city": "Cali",
-    "Population": "2,540,000"
+    "Population": "2,540,000",
+    "lat": "3.43722",
+    "lng": "-76.5225"
   },
   {
     "index": 207,
     "country": "Iran",
     "city": "Esfahan",
-    "Population": "2,525,000"
+    "Population": "2,525,000",
+    "lat": "32.65246",
+    "lng": "51.67462"
   },
   {
     "index": 208,
     "country": "China",
     "city": "Shantou",
-    "Population": "2,515,000"
+    "Population": "2,515,000",
+    "lat": "23.36814",
+    "lng": "116.71479"
   },
   {
     "index": 208,
     "country": "Guatemala",
     "city": "Guatemala City",
-    "Population": "2,515,000"
+    "Population": "2,515,000",
+    "lat": "14.64072",
+    "lng": "-90.51327"
   },
   {
     "index": 210,
     "country": "Hungary",
     "city": "Budapest",
-    "Population": "2,495,000"
+    "Population": "2,495,000",
+    "lat": "47.49801",
+    "lng": "19.03991"
   },
   {
     "index": 211,
     "country": "India",
     "city": "Malappuram",
-    "Population": "2,480,000"
+    "Population": "2,480,000",
+    "lat": "11.04199",
+    "lng": "76.08154"
   },
   {
     "index": 212,
     "country": "China",
     "city": "Hohhot",
-    "Population": "2,455,000"
+    "Population": "2,455,000",
+    "lat": "40.81056",
+    "lng": "111.65222"
   },
   {
     "index": 213,
     "country": "Ecuador",
     "city": "Quito",
-    "Population": "2,445,000"
+    "Population": "2,445,000",
+    "lat": "-0.22985",
+    "lng": "-78.52495"
   },
   {
     "index": 214,
     "country": "China",
     "city": "Baotou",
-    "Population": "2,415,000"
+    "Population": "2,415,000",
+    "lat": "40.65222",
+    "lng": "109.82222"
   },
   {
     "index": 214,
     "country": "China",
     "city": "Luoyang",
-    "Population": "2,415,000"
+    "Population": "2,415,000",
+    "lat": "34.68361",
+    "lng": "112.45361"
   },
   {
     "index": 214,
     "country": "India",
     "city": "Kannur",
-    "Population": "2,415,000"
+    "Population": "2,415,000",
+    "lat": "11.86752",
+    "lng": "75.35763"
   },
   {
     "index": 216,
     "country": "Japan",
     "city": "Sapporo",
-    "Population": "2,390,000"
+    "Population": "2,390,000",
+    "lat": "43.06667",
+    "lng": "141.35"
   },
   {
     "index": 218,
     "country": "South Korea",
     "city": "Daegu",
-    "Population": "2,370,000"
+    "Population": "2,370,000",
+    "lat": "35.87028",
+    "lng": "128.59111"
   },
   {
     "index": 219,
     "country": "Canada",
     "city": "Vancouver",
-    "Population": "2,335,000"
+    "Population": "2,335,000",
+    "lat": "49.24966",
+    "lng": "-123.11934"
   },
   {
     "index": 219,
     "country": "United States",
     "city": "Baltimore",
-    "Population": "2,335,000"
+    "Population": "2,335,000",
+    "lat": "39.29038",
+    "lng": "-76.61219"
   },
   {
     "index": 221,
     "country": "Bolivia",
     "city": "Santa Cruz de la Sierra",
-    "Population": "2,320,000"
+    "Population": "2,320,000",
+    "lat": "-17.78629",
+    "lng": "-63.18117"
   },
   {
     "index": 221,
     "country": "India",
     "city": "Patna",
-    "Population": "2,320,000"
+    "Population": "2,320,000",
+    "lat": "25.59408",
+    "lng": "85.13563"
   },
   {
     "index": 223,
     "country": "China",
     "city": "Yantai",
-    "Population": "2,310,000"
+    "Population": "2,310,000",
+    "lat": "37.47649",
+    "lng": "121.44081"
   },
   {
     "index": 224,
     "country": "Uzbekistan",
     "city": "Tashkent",
-    "Population": "2,295,000"
+    "Population": "2,295,000",
+    "lat": "41.26465",
+    "lng": "69.21627"
   },
   {
     "index": 225,
     "country": "Lebanon",
     "city": "Beirut",
-    "Population": "2,285,000"
+    "Population": "2,285,000",
+    "lat": "33.89332",
+    "lng": "35.50157"
   },
   {
     "index": 225,
     "country": "Poland",
     "city": "Warsaw",
-    "Population": "2,285,000"
+    "Population": "2,285,000",
+    "lat": "52.22977",
+    "lng": "21.01178"
   },
   {
     "index": 227,
-    "country": "Congo (Dem. Rep.)",
+    "country": "Democratic Republic of the Congo",
     "city": "Mbuji-Mayi",
-    "Population": "2,280,000"
+    "Population": "2,280,000",
+    "lat": "-6.13603",
+    "lng": "23.58979"
   },
   {
     "index": 227,
     "country": "Tunisia",
     "city": "Tunis",
-    "Population": "2,280,000"
+    "Population": "2,280,000",
+    "lat": "36.81897",
+    "lng": "10.16579"
   },
   {
     "index": 227,
     "country": "United States",
     "city": "Salt Lake City",
-    "Population": "2,280,000"
+    "Population": "2,280,000",
+    "lat": "40.76078",
+    "lng": "-111.89105"
   },
   {
     "index": 230,
     "country": "Pakistan",
     "city": "Gujranwala",
-    "Population": "2,275,000"
+    "Population": "2,275,000",
+    "lat": "32.15567",
+    "lng": "74.18705"
   },
   {
     "index": 231,
-    "country": "Congo (Dem. Rep.)",
+    "country": "Democratic Republic of the Congo",
     "city": "Lubumbashi",
-    "Population": "2,255,000"
+    "Population": "2,255,000",
+    "lat": "-11.66089",
+    "lng": "27.47938"
   },
   {
     "index": 231,
     "country": "Zimbabwe",
     "city": "Harare",
-    "Population": "2,255,000"
+    "Population": "2,255,000",
+    "lat": "-17.82772",
+    "lng": "31.05337"
   },
   {
     "index": 233,
     "country": "China",
     "city": "Haikou",
-    "Population": "2,250,000"
+    "Population": "2,250,000",
+    "lat": "20.04583",
+    "lng": "110.34167"
   },
   {
     "index": 234,
     "country": "Bangladesh",
-    "city": "Savar",
-    "Population": "2,240,000"
+    "city": "Savar Upazila",
+    "Population": "2,240,000",
+    "lat": "23.84858",
+    "lng": "90.25002"
   },
   {
     "index": 234,
     "country": "Brazil",
     "city": "Goiania",
-    "Population": "2,240,000"
+    "Population": "2,240,000",
+    "lat": "-16.67861",
+    "lng": "-49.25389"
   },
   {
     "index": 235,
     "country": "Nigeria",
     "city": "Uyo",
-    "Population": "2,230,000"
+    "Population": "2,230,000",
+    "lat": "5.05127",
+    "lng": "7.9335"
   },
   {
     "index": 236,
     "country": "India",
     "city": "Bhopal",
-    "Population": "2,230,000"
+    "Population": "2,230,000",
+    "lat": "23.25469",
+    "lng": "77.40289"
   },
   {
     "index": 238,
     "country": "United States",
     "city": "Orlando",
-    "Population": "2,205,000"
+    "Population": "2,205,000",
+    "lat": "28.53834",
+    "lng": "-81.37924"
   },
   {
     "index": 239,
     "country": "Mexico",
     "city": "Puebla",
-    "Population": "2,195,000"
+    "Population": "2,195,000",
+    "lat": "19.03793",
+    "lng": "-98.20346"
   },
   {
     "index": 240,
     "country": "Germany",
-    "city": "Cologne-Bonn",
-    "Population": "2,175,000"
+    "city": "Cologne",
+    "Population": "2,175,000",
+    "lat": "50.93333",
+    "lng": "6.95"
   },
   {
     "index": 241,
     "country": "United States",
     "city": "St. Louis",
-    "Population": "2,170,000"
+    "Population": "2,170,000",
+    "lat": "38.62727",
+    "lng": "-90.19789"
   },
   {
     "index": 242,
     "country": "Poland",
-    "city": "Katowice-Gliwice-Tychy",
-    "Population": "2,165,000"
+    "city": "Katowice",
+    "Population": "2,165,000",
+    "lat": "50.25841",
+    "lng": "19.02754"
   },
   {
     "index": 243,
     "country": "Belgium",
     "city": "Brussels",
-    "Population": "2,140,000"
+    "Population": "2,140,000",
+    "lat": "50.85045",
+    "lng": "4.34878"
   },
   {
     "index": 244,
-    "country": "US: Puerto Rico",
+    "country": "Puerto Rico",
     "city": "San Juan",
-    "Population": "2,135,000"
+    "Population": "2,135,000",
+    "lat": "18.46633",
+    "lng": "-66.10572"
   },
   {
     "index": 245,
     "country": "United States",
     "city": "Las Vegas",
-    "Population": "2,130,000"
+    "Population": "2,130,000",
+    "lat": "36.17497",
+    "lng": "-115.13722"
   },
   {
     "index": 245,
     "country": "Venezuela",
     "city": "Maracaibo",
-    "Population": "2,130,000"
+    "Population": "2,130,000",
+    "lat": "10.66663",
+    "lng": "-71.61245"
   },
   {
     "index": 247,
     "country": "Australia",
     "city": "Brisbane",
-    "Population": "2,120,000"
+    "Population": "2,120,000",
+    "lat": "-27.46794",
+    "lng": "153.02809"
   },
   {
     "index": 248,
     "country": "Germany",
     "city": "Hamburg",
-    "Population": "2,115,000"
+    "Population": "2,115,000",
+    "lat": "53.57532",
+    "lng": "10.01534"
   },
   {
     "index": 248,
     "country": "India",
     "city": "Thiruvananthapuram",
-    "Population": "2,115,000"
+    "Population": "2,115,000",
+    "lat": "8.4855",
+    "lng": "76.94924"
   },
   {
     "index": 250,
     "country": "Romania",
     "city": "Bucharest",
-    "Population": "2,110,000"
+    "Population": "2,110,000",
+    "lat": "44.43225",
+    "lng": "26.10626"
   },
   {
     "index": 251,
     "country": "Morocco",
     "city": "Rabat",
-    "Population": "2,105,000"
+    "Population": "2,105,000",
+    "lat": "34.01325",
+    "lng": "-6.83255"
   },
   {
     "index": 252,
     "country": "China",
     "city": "Putian",
-    "Population": "2,095,000"
+    "Population": "2,095,000",
+    "lat": "25.43944",
+    "lng": "119.01028"
   },
   {
     "index": 252,
     "country": "India",
     "city": "Agra",
-    "Population": "2,095,000"
+    "Population": "2,095,000",
+    "lat": "27.18333",
+    "lng": "78.01667"
   },
   {
     "index": 254,
     "country": "India",
     "city": "Vadodara",
-    "Population": "2,080,000"
+    "Population": "2,080,000",
+    "lat": "22.29941",
+    "lng": "73.20812"
   },
   {
     "index": 255,
     "country": "United States",
     "city": "Portland",
-    "Population": "2,075,000"
+    "Population": "2,075,000",
+    "lat": "45.52345",
+    "lng": "-122.67621"
   },
   {
     "index": 256,
     "country": "United States",
     "city": "San Antonio",
-    "Population": "2,070,000"
+    "Population": "2,070,000",
+    "lat": "29.42412",
+    "lng": "-98.49363"
   },
   {
     "index": 257,
     "country": "Brazil",
     "city": "Belem",
-    "Population": "2,060,000"
+    "Population": "2,060,000",
+    "lat": "-1.45583",
+    "lng": "-48.50444"
   },
   {
     "index": 257,
     "country": "Iran",
     "city": "Shiraz",
-    "Population": "2,060,000"
+    "Population": "2,060,000",
+    "lat": "29.61031",
+    "lng": "52.53113"
   },
   {
     "index": 257,
     "country": "Nigeria",
     "city": "Port Harcourt",
-    "Population": "2,060,000"
+    "Population": "2,060,000",
+    "lat": "4.77742",
+    "lng": "7.0134"
   },
   {
     "index": 257,
     "country": "Pakistan",
     "city": "Peshawar",
-    "Population": "2,060,000"
+    "Population": "2,060,000",
+    "lat": "34.008",
+    "lng": "71.57849"
   },
   {
     "index": 261,
     "country": "China",
     "city": "Kunshan",
-    "Population": "2,055,000"
+    "Population": "2,055,000",
+    "lat": "31.37762",
+    "lng": "120.95431"
   },
   {
     "index": 262,
     "country": "China",
     "city": "Handan",
-    "Population": "2,045,000"
+    "Population": "2,045,000",
+    "lat": "36.60056",
+    "lng": "114.46778"
   },
   {
     "index": 262,
-    "country": "Congo",
+    "country": "Republic of the Congo",
     "city": "Brazzaville",
-    "Population": "2,045,000"
+    "Population": "2,045,000",
+    "lat": "-4.26613",
+    "lng": "15.28318"
   },
   {
     "index": 262,
     "country": "Germany",
     "city": "Munich",
-    "Population": "2,045,000"
+    "Population": "2,045,000",
+    "lat": "48.13743",
+    "lng": "11.57549"
   },
   {
     "index": 265,
     "country": "China",
     "city": "Huizhou",
-    "Population": "2,025,000"
+    "Population": "2,025,000",
+    "lat": "23.11147",
+    "lng": "114.41523"
   },
   {
     "index": 266,
     "country": "Brazil",
     "city": "Manaus",
-    "Population": "2,020,000"
+    "Population": "2,020,000",
+    "lat": "-3.10194",
+    "lng": "-60.025"
   },
   {
     "index": 266,
     "country": "Cuba",
     "city": "Havana",
-    "Population": "2,020,000"
+    "Population": "2,020,000",
+    "lat": "23.13302",
+    "lng": "-82.38304"
   },
   {
     "index": 268,
     "country": "Mexico",
     "city": "Toluca",
-    "Population": "2,015,000"
+    "Population": "2,015,000",
+    "lat": "19.28786",
+    "lng": "-99.65324"
   },
   {
     "index": 269,
     "country": "Belarus",
     "city": "Minsk",
-    "Population": "2,000,000"
+    "Population": "2,000,000",
+    "lat": "53.9",
+    "lng": "27.56667"
   },
   {
     "index": 269,
     "country": "Pakistan",
     "city": "Hyderabad",
-    "Population": "2,000,000"
+    "Population": "2,000,000",
+    "lat": "25.39242",
+    "lng": "68.37366"
   },
   {
     "index": 271,
     "country": "Turkey",
     "city": "Bursa",
-    "Population": "1,995,000"
+    "Population": "1,995,000",
+    "lat": "40.19559",
+    "lng": "29.06013"
   },
   {
     "index": 272,
     "country": "Bolivia",
     "city": "La Paz",
-    "Population": "1,990,000"
+    "Population": "1,990,000",
+    "lat": "-16.5",
+    "lng": "-68.15"
   },
   {
     "index": 273,
     "country": "United Kingdom",
-    "city": "Leeds-Bradford",
-    "Population": "1,985,000"
+    "city": "Leeds",
+    "Population": "1,985,000",
+    "lat": "53.79648",
+    "lng": "-1.54785"
   },
   {
     "index": 274,
     "country": "Cambodia",
     "city": "Phnom Penh",
-    "Population": "1,965,000"
+    "Population": "1,965,000",
+    "lat": "11.56245",
+    "lng": "104.91601"
   },
   {
     "index": 274,
     "country": "China",
     "city": "Datong",
-    "Population": "1,965,000"
+    "Population": "1,965,000",
+    "lat": "40.09361",
+    "lng": "113.29139"
   },
   {
     "index": 274,
     "country": "Germany",
     "city": "Frankfurt",
-    "Population": "1,965,000"
+    "Population": "1,965,000",
+    "lat": "50.11552",
+    "lng": "8.68417"
   },
   {
     "index": 277,
     "country": "Australia",
     "city": "Perth",
-    "Population": "1,945,000"
+    "Population": "1,945,000",
+    "lat": "-31.95224",
+    "lng": "115.8614"
   },
   {
     "index": 278,
     "country": "China",
     "city": "Yiwu",
-    "Population": "1,915,000"
+    "Population": "1,915,000",
+    "lat": "29.3447",
+    "lng": "120.032"
   },
   {
     "index": 279,
     "country": "India",
     "city": "Nashik",
-    "Population": "1,905,000"
+    "Population": "1,905,000",
+    "lat": "19.99727",
+    "lng": "73.79096"
   },
   {
     "index": 279,
     "country": "India",
     "city": "Vijayawada",
-    "Population": "1,905,000"
+    "Population": "1,905,000",
+    "lat": "16.50745",
+    "lng": "80.6466"
   },
   {
     "index": 279,
     "country": "India",
     "city": "Visakhapatnam",
-    "Population": "1,905,000"
+    "Population": "1,905,000",
+    "lat": "17.68009",
+    "lng": "83.20161"
   },
   {
     "index": 282,
     "country": "Pakistan",
     "city": "Multan",
-    "Population": "1,900,000"
+    "Population": "1,900,000",
+    "lat": "30.19679",
+    "lng": "71.47824"
   },
   {
     "index": 283,
     "country": "United States",
     "city": "Sacramento",
-    "Population": "1,885,000"
+    "Population": "1,885,000",
+    "lat": "38.58157",
+    "lng": "-121.4944"
   },
   {
     "index": 284,
     "country": "Indonesia",
     "city": "Yogyakarta",
-    "Population": "1,850,000"
+    "Population": "1,850,000",
+    "lat": "-7.80139",
+    "lng": "110.36472"
   },
   {
     "index": 285,
     "country": "Nigeria",
     "city": "Nsukka",
-    "Population": "1,840,000"
+    "Population": "1,840,000",
+    "lat": "6.85783",
+    "lng": "7.39577"
   },
   {
     "index": 285,
     "country": "Togo",
     "city": "Lome",
-    "Population": "1,845,000"
+    "Population": "1,845,000",
+    "lat": "6.12874",
+    "lng": "1.22154"
   },
   {
     "index": 286,
     "country": "Iraq",
     "city": "Mosul",
-    "Population": "1,840,000"
+    "Population": "1,840,000",
+    "lat": "36.335",
+    "lng": "43.11889"
   },
   {
     "index": 286,
     "country": "United Arab Emirates",
     "city": "Abu Dhabi",
-    "Population": "1,840,000"
+    "Population": "1,840,000",
+    "lat": "24.46667",
+    "lng": "54.36667"
   },
   {
     "index": 289,
     "country": "Colombia",
     "city": "Barranquilla",
-    "Population": "1,810,000"
+    "Population": "1,810,000",
+    "lat": "10.96854",
+    "lng": "-74.78132"
   },
   {
     "index": 289,
     "country": "Malaysia",
     "city": "Johor Bahru",
-    "Population": "1,810,000"
+    "Population": "1,810,000",
+    "lat": "1.4655",
+    "lng": "103.7578"
   },
   {
     "index": 291,
     "country": "Austria",
     "city": "Vienna",
-    "Population": "1,795,000"
+    "Population": "1,795,000",
+    "lat": "48.20849",
+    "lng": "16.37208"
   },
   {
     "index": 291,
     "country": "India",
     "city": "Ludhiana",
-    "Population": "1,795,000"
+    "Population": "1,795,000",
+    "lat": "30.91204",
+    "lng": "75.85379"
   },
   {
     "index": 293,
     "country": "Guinea",
     "city": "Conakry",
-    "Population": "1,785,000"
+    "Population": "1,785,000",
+    "lat": "9.53795",
+    "lng": "-13.67729"
   },
   {
     "index": 294,
     "country": "China",
     "city": "Huaian",
-    "Population": "1,775,000"
+    "Population": "1,775,000",
+    "lat": "33.50389",
+    "lng": "119.14417"
   },
   {
     "index": 295,
     "country": "Iran",
     "city": "Tabriz",
-    "Population": "1,765,000"
+    "Population": "1,765,000",
+    "lat": "38.08",
+    "lng": "46.2919"
   },
   {
     "index": 296,
     "country": "China",
     "city": "Weifang",
-    "Population": "1,760,000"
+    "Population": "1,760,000",
+    "lat": "36.71",
+    "lng": "119.10194"
   },
   {
     "index": 296,
     "country": "Costa Rica",
     "city": "San Jose",
-    "Population": "1,760,000"
+    "Population": "1,760,000",
+    "lat": "9.93333",
+    "lng": "-84.08333"
   },
   {
     "index": 296,
     "country": "United States",
     "city": "Cleveland",
-    "Population": "1,760,000"
+    "Population": "1,760,000",
+    "lat": "41.4995",
+    "lng": "-81.69541"
   },
   {
     "index": 299,
     "country": "Saudi Arabia",
     "city": "Mecca",
-    "Population": "1,755,000"
+    "Population": "1,755,000",
+    "lat": "21.42664",
+    "lng": "39.82563"
   },
   {
     "index": 299,
     "country": "Sierra Leone",
     "city": "Freetown",
-    "Population": "1,755,000"
+    "Population": "1,755,000",
+    "lat": "8.48714",
+    "lng": "-13.2356"
   },
   {
     "index": 301,
     "country": "China",
     "city": "Zhangzhou",
-    "Population": "1,750,000"
+    "Population": "1,750,000",
+    "lat": "24.51333",
+    "lng": "117.65556"
   },
   {
     "index": 301,
     "country": "Japan",
     "city": "Kitakyushu",
-    "Population": "1,740,000"
+    "Population": "1,740,000",
+    "lat": "33.85181",
+    "lng": "130.85034"
   },
   {
     "index": 302,
     "country": "Qatar",
     "city": "Doha",
-    "Population": "1,745,000"
+    "Population": "1,745,000",
+    "lat": "25.28545",
+    "lng": "51.53096"
   },
   {
     "index": 303,
     "country": "China",
     "city": "Puning",
-    "Population": "1,740,000"
+    "Population": "1,740,000",
+    "lat": "23.31072",
+    "lng": "116.16869"
   },
   {
     "index": 303,
     "country": "United States",
     "city": "Pittsburgh",
-    "Population": "1,740,000"
+    "Population": "1,740,000",
+    "lat": "40.44062",
+    "lng": "-79.99589"
   },
   {
     "index": 306,
     "country": "China",
     "city": "Taizhou",
-    "Population": "1,725,000"
+    "Population": "1,725,000",
+    "lat": "32.49069",
+    "lng": "119.90812"
   },
   {
     "index": 307,
     "country": "India",
     "city": "Rajkot",
-    "Population": "1,715,000"
+    "Population": "1,715,000",
+    "lat": "22.29161",
+    "lng": "70.79322"
   },
   {
     "index": 308,
     "country": "China",
     "city": "Cixi",
-    "Population": "1,710,000"
+    "Population": "1,710,000",
+    "lat": "31.11184",
+    "lng": "120.22466"
   },
   {
     "index": 308,
     "country": "United States",
     "city": "Austin",
-    "Population": "1,710,000"
+    "Population": "1,710,000",
+    "lat": "30.26715",
+    "lng": "-97.74306"
   },
   {
     "index": 310,
     "country": "China",
     "city": "Liuzhou",
-    "Population": "1,705,000"
+    "Population": "1,705,000",
+    "lat": "24.2075",
+    "lng": "109.391"
   },
   {
     "index": 311,
     "country": "Brazil",
     "city": "Santos",
-    "Population": "1,700,000"
+    "Population": "1,700,000",
+    "lat": "-23.96083",
+    "lng": "-46.33361"
   },
   {
     "index": 312,
     "country": "Indonesia",
     "city": "Semarang",
-    "Population": "1,690,000"
+    "Population": "1,690,000",
+    "lat": "-6.99306",
+    "lng": "110.42083"
   },
   {
     "index": 313,
     "country": "China",
     "city": "Jilin",
-    "Population": "1,685,000"
+    "Population": "1,685,000",
+    "lat": "43.85083",
+    "lng": "126.56028"
   },
   {
     "index": 314,
     "country": "China",
     "city": "Yingkou",
-    "Population": "1,680,000"
+    "Population": "1,680,000",
+    "lat": "40.66482",
+    "lng": "122.22833"
   },
   {
     "index": 314,
     "country": "India",
     "city": "Madurai",
-    "Population": "1,680,000"
+    "Population": "1,680,000",
+    "lat": "9.91769",
+    "lng": "78.11898"
   },
   {
     "index": 316,
     "country": "China",
     "city": "Wuhu",
-    "Population": "1,675,000"
+    "Population": "1,675,000",
+    "lat": "31.33728",
+    "lng": "118.37351"
   },
   {
     "index": 316,
     "country": "United States",
     "city": "Cincinnati",
-    "Population": "1,675,000"
+    "Population": "1,675,000",
+    "lat": "39.12711",
+    "lng": "-84.51439"
   },
   {
     "index": 318,
     "country": "China",
     "city": "Yangzhou",
-    "Population": "1,665,000"
+    "Population": "1,665,000",
+    "lat": "32.39722",
+    "lng": "119.43583"
   },
   {
     "index": 318,
     "country": "France",
     "city": "Lyon",
-    "Population": "1,665,000"
+    "Population": "1,665,000",
+    "lat": "45.74846",
+    "lng": "4.84671"
   },
   {
     "index": 320,
     "country": "China",
     "city": "Zhuhai",
-    "Population": "1,660,000"
+    "Population": "1,660,000",
+    "lat": "22.27694",
+    "lng": "113.56778"
   },
   {
     "index": 320,
     "country": "Mexico",
     "city": "Leon",
-    "Population": "1,660,000"
+    "Population": "1,660,000",
+    "lat": "21.12908",
+    "lng": "-101.67374"
   },
   {
     "index": 320,
     "country": "Netherlands",
     "city": "Amsterdam",
-    "Population": "1,660,000"
+    "Population": "1,660,000",
+    "lat": "52.37403",
+    "lng": "4.88969"
   },
   {
     "index": 320,
     "country": "Russia",
     "city": "Novosibirsk",
-    "Population": "1,660,000"
+    "Population": "1,660,000",
+    "lat": "55.0415",
+    "lng": "82.9346"
   },
   {
     "index": 324,
     "country": "Syria",
     "city": "Homs",
-    "Population": "1,640,000"
+    "Population": "1,640,000",
+    "lat": "34.72682",
+    "lng": "36.72339"
   },
   {
     "index": 325,
     "country": "India",
     "city": "Meerut",
-    "Population": "1,635,000"
+    "Population": "1,635,000",
+    "lat": "28.98002",
+    "lng": "77.70636"
   },
   {
     "index": 326,
     "country": "France",
     "city": "Marseille",
-    "Population": "1,630,000"
+    "Population": "1,630,000",
+    "lat": "43.29695",
+    "lng": "5.38107"
   },
   {
     "index": 326,
     "country": "United States",
     "city": "Indianapolis",
-    "Population": "1,630,000"
+    "Population": "1,630,000",
+    "lat": "39.76838",
+    "lng": "-86.15804"
   },
   {
     "index": 328,
     "country": "Argentina",
     "city": "Cordoba",
-    "Population": "1,620,000"
+    "Population": "1,620,000",
+    "lat": "-31.4135",
+    "lng": "-64.18105"
   },
   {
     "index": 329,
     "country": "India",
     "city": "Varanasi",
-    "Population": "1,615,000"
+    "Population": "1,615,000",
+    "lat": "25.31668",
+    "lng": "83.01041"
   },
   {
     "index": 329,
     "country": "United States",
     "city": "Kansas City",
-    "Population": "1,615,000"
+    "Population": "1,615,000",
+    "lat": "39.09973",
+    "lng": "-94.57857"
   },
   {
     "index": 331,
     "country": "Panama",
     "city": "Panama City",
-    "Population": "1,595,000"
+    "Population": "1,595,000",
+    "lat": "8.9936",
+    "lng": "-79.51973"
   },
   {
     "index": 331,
     "country": "Spain",
     "city": "Valencia",
-    "Population": "1,595,000"
+    "Population": "1,595,000",
+    "lat": "39.46975",
+    "lng": "-0.37739"
   },
   {
     "index": 333,
     "country": "Indonesia",
     "city": "Makassar",
-    "Population": "1,590,000"
+    "Population": "1,590,000",
+    "lat": "-5.14861",
+    "lng": "119.43194"
   },
   {
     "index": 333,
     "country": "Ukraine",
     "city": "Kharkov",
-    "Population": "1,590,000"
+    "Population": "1,590,000",
+    "lat": "49.98081",
+    "lng": "36.25272"
   },
   {
     "index": 335,
     "country": "China",
     "city": "Ganzhou",
-    "Population": "1,585,000"
+    "Population": "1,585,000",
+    "lat": "25.85088",
+    "lng": "114.77537"
   },
   {
     "index": 336,
     "country": "China",
     "city": "Daqing",
-    "Population": "1,580,000"
+    "Population": "1,580,000",
+    "lat": "46.58333",
+    "lng": "125"
   },
   {
     "index": 337,
     "country": "China",
     "city": "Chaozhou",
-    "Population": "1,575,000"
+    "Population": "1,575,000",
+    "lat": "23.65396",
+    "lng": "116.62262"
   },
   {
     "index": 338,
     "country": "India",
     "city": "Kollam",
-    "Population": "1,565,000"
+    "Population": "1,565,000",
+    "lat": "8.88113",
+    "lng": "76.58469"
   },
   {
     "index": 338,
     "country": "Sweden",
     "city": "Stockholm",
-    "Population": "1,565,000"
+    "Population": "1,565,000",
+    "lat": "59.33258",
+    "lng": "18.0649"
   },
   {
     "index": 340,
     "country": "Bahrain",
     "city": "Al-Manamah",
-    "Population": "1,555,000"
+    "Population": "1,555,000",
+    "lat": "26.22787",
+    "lng": "50.58565"
   },
   {
     "index": 340,
     "country": "China",
     "city": "Anshan",
-    "Population": "1,555,000"
+    "Population": "1,555,000",
+    "lat": "41.12361",
+    "lng": "122.99"
   },
   {
     "index": 342,
     "country": "Liberia",
     "city": "Monrovia",
-    "Population": "1,545,000"
+    "Population": "1,545,000",
+    "lat": "6.30054",
+    "lng": "-10.7969"
   },
   {
     "index": 343,
     "country": "El Salvador",
     "city": "San Salvador",
-    "Population": "1,540,000"
+    "Population": "1,540,000",
+    "lat": "13.68935",
+    "lng": "-89.18718"
   },
   {
     "index": 343,
     "country": "United States",
     "city": "Columbus",
-    "Population": "1,540,000"
+    "Population": "1,540,000",
+    "lat": "39.96118",
+    "lng": "-82.99879"
   },
   {
     "index": 343,
     "country": "Venezuela",
     "city": "Valencia",
-    "Population": "1,540,000"
+    "Population": "1,540,000",
+    "lat": "10.16202",
+    "lng": "-68.00765"
   },
   {
     "index": 346,
     "country": "China",
     "city": "Changshu",
-    "Population": "1,535,000"
+    "Population": "1,535,000",
+    "lat": "31.64615",
+    "lng": "120.74221"
   },
   {
     "index": 346,
     "country": "Italy",
     "city": "Turin",
-    "Population": "1,535,000"
+    "Population": "1,535,000",
+    "lat": "45.07049",
+    "lng": "7.68682"
   },
   {
     "index": 346,
     "country": "Niger",
     "city": "Niamey",
-    "Population": "1,535,000"
+    "Population": "1,535,000",
+    "lat": "13.51366",
+    "lng": "2.1098"
   },
   {
     "index": 349,
     "country": "India",
     "city": "Jamshedpur",
-    "Population": "1,530,000"
+    "Population": "1,530,000",
+    "lat": "22.80278",
+    "lng": "86.18545"
   },
   {
     "index": 349,
     "country": "New Zealand",
     "city": "Auckland",
-    "Population": "1,530,000"
+    "Population": "1,530,000",
+    "lat": "-36.84853",
+    "lng": "174.76349"
   },
   {
     "index": 351,
     "country": "South Korea",
     "city": "Daejon",
-    "Population": "1,525,000"
+    "Population": "1,525,000",
+    "lat": "36.32139",
+    "lng": "127.41972"
   },
   {
     "index": 351,
     "country": "South Korea",
     "city": "Gwangju",
-    "Population": "1,525,000"
+    "Population": "1,525,000",
+    "lat": "35.15472",
+    "lng": "126.91556"
   },
   {
     "index": 353,
     "country": "India",
     "city": "Srinagar",
-    "Population": "1,520,000"
+    "Population": "1,520,000",
+    "lat": "34.08565",
+    "lng": "74.80555"
   },
   {
     "index": 353,
     "country": "Kazakhstan",
     "city": "Almaty",
-    "Population": "1,520,000"
+    "Population": "1,520,000",
+    "lat": "43.25667",
+    "lng": "76.92861"
   },
   {
     "index": 355,
     "country": "Turkey",
     "city": "Gaziantep",
-    "Population": "1,515,000"
+    "Population": "1,515,000",
+    "lat": "37.05944",
+    "lng": "37.3825"
   },
   {
     "index": 356,
     "country": "China",
     "city": "Nanyang",
-    "Population": "1,505,000"
+    "Population": "1,505,000",
+    "lat": "32.99472",
+    "lng": "112.53278"
   },
   {
     "index": 356,
     "country": "India",
     "city": "Raipur",
-    "Population": "1,505,000"
+    "Population": "1,505,000",
+    "lat": "21.23333",
+    "lng": "81.63333"
   },
   {
     "index": 356,
     "country": "United States",
     "city": "Charlotte",
-    "Population": "1,505,000"
+    "Population": "1,505,000",
+    "lat": "35.22709",
+    "lng": "-80.84313"
   },
   {
     "index": 359,
     "country": "Russia",
     "city": "Nizhniy Novgorod",
-    "Population": "1,500,000"
+    "Population": "1,500,000",
+    "lat": "56.32867",
+    "lng": "44.00205"
   },
   {
     "index": 359,
     "country": "United States",
     "city": "Raleigh",
-    "Population": "1,500,000"
+    "Population": "1,500,000",
+    "lat": "35.7721",
+    "lng": "-78.63861"
   },
   {
     "index": 361,
     "country": "China",
     "city": "Huainan",
-    "Population": "1,495,000"
+    "Population": "1,495,000",
+    "lat": "32.62639",
+    "lng": "116.99694"
   },
   {
     "index": 361,
     "country": "United States",
-    "city": "Virginia Beach-Norfolk",
-    "Population": "1,495,000"
+    "city": "Virginia Beach",
+    "Population": "1,495,000",
+    "lat": "36.85293",
+    "lng": "-75.97799"
   },
   {
     "index": 363,
     "country": "Philippines",
     "city": "Davao City",
-    "Population": "1,490,000"
+    "Population": "1,490,000",
+    "lat": "7.07306",
+    "lng": "125.61278"
   },
   {
     "index": 363,
     "country": "Portugal",
     "city": "Porto",
-    "Population": "1,490,000"
+    "Population": "1,490,000",
+    "lat": "41.14961",
+    "lng": "-8.61099"
   },
   {
     "index": 365,
     "country": "Russia",
     "city": "Yekaterinburg",
-    "Population": "1,485,000"
+    "Population": "1,485,000",
+    "lat": "56.8519",
+    "lng": "60.6122"
   },
   {
     "index": 366,
     "country": "Mexico",
     "city": "Tijuana",
-    "Population": "1,475,000"
+    "Population": "1,475,000",
+    "lat": "32.5027",
+    "lng": "-117.00371"
   },
   {
     "index": 367,
     "country": "China",
     "city": "Huangshi",
-    "Population": "1,470,000"
+    "Population": "1,470,000",
+    "lat": "30.24706",
+    "lng": "115.04814"
   },
   {
     "index": 368,
-    "country": "Myanmar",
+    "country": "Myanmar [Burma]",
     "city": "Mandalay",
-    "Population": "1,465,000"
+    "Population": "1,465,000",
+    "lat": "21.97473",
+    "lng": "96.08359"
   },
   {
     "index": 369,
     "country": "China",
     "city": "Jiangmen",
-    "Population": "1,460,000"
+    "Population": "1,460,000",
+    "lat": "22.58333",
+    "lng": "113.08333"
   },
   {
     "index": 369,
     "country": "China",
     "city": "Xining",
-    "Population": "1,460,000"
+    "Population": "1,460,000",
+    "lat": "36.62554",
+    "lng": "101.75739"
   },
   {
     "index": 369,
     "country": "Malaysia",
     "city": "Penang",
-    "Population": "1,460,000"
+    "Population": "1,460,000",
+    "lat": "5.41123",
+    "lng": "100.33543"
   },
   {
     "index": 372,
     "country": "Indonesia",
     "city": "Palembang",
-    "Population": "1,455,000"
+    "Population": "1,455,000",
+    "lat": "-2.91673",
+    "lng": "104.7458"
   },
   {
     "index": 373,
     "country": "Nigeria",
     "city": "Benin City",
-    "Population": "1,445,000"
+    "Population": "1,445,000",
+    "lat": "6.33815",
+    "lng": "5.62575"
   },
   {
     "index": 374,
     "country": "India",
     "city": "Aurangabad",
-    "Population": "1,435,000"
+    "Population": "1,435,000",
+    "lat": "19.87757",
+    "lng": "75.34226"
   },
   {
     "index": 375,
     "country": "Indonesia",
     "city": "Batam",
-    "Population": "1,415,000"
+    "Population": "1,415,000",
+    "lat": "1.14937",
+    "lng": "104.02491"
   },
   {
     "index": 376,
     "country": "Iran",
     "city": "Ahvaz",
-    "Population": "1,410,000"
+    "Population": "1,410,000",
+    "lat": "31.31901",
+    "lng": "48.6842"
   },
   {
     "index": 376,
     "country": "Turkey",
     "city": "Mersin",
-    "Population": "1,410,000"
+    "Population": "1,410,000",
+    "lat": "36.81196",
+    "lng": "34.63886"
   },
   {
     "index": 378,
     "country": "Indonesia",
     "city": "Denpasar",
-    "Population": "1,405,000"
+    "Population": "1,405,000",
+    "lat": "-8.65",
+    "lng": "115.21667"
   },
   {
     "index": 378,
     "country": "United States",
     "city": "Milwaukee",
-    "Population": "1,405,000"
+    "Population": "1,405,000",
+    "lat": "43.0389",
+    "lng": "-87.90647"
   },
   {
     "index": 380,
-    "country": "Czech Republic",
+    "country": "Czechia",
     "city": "Prague",
-    "Population": "1,400,000"
+    "Population": "1,400,000",
+    "lat": "50.08804",
+    "lng": "14.42076"
   },
   {
     "index": 380,
     "country": "Germany",
     "city": "Stuttgart",
-    "Population": "1,400,000"
+    "Population": "1,400,000",
+    "lat": "48.78232",
+    "lng": "9.17702"
   },
   {
     "index": 382,
     "country": "China",
     "city": "Baoding",
-    "Population": "1,395,000"
+    "Population": "1,395,000",
+    "lat": "38.85111",
+    "lng": "115.49028"
   },
   {
     "index": 382,
     "country": "India",
     "city": "Jabalpur",
-    "Population": "1,395,000"
+    "Population": "1,395,000",
+    "lat": "23.16697",
+    "lng": "79.95006"
   },
   {
     "index": 382,
     "country": "Mexico",
     "city": "Ciudad Juarez",
-    "Population": "1,395,000"
+    "Population": "1,395,000",
+    "lat": "31.72024",
+    "lng": "-106.46084"
   },
   {
     "index": 383,
     "country": "Japan",
     "city": "Hiroshima",
-    "Population": "1,390,000"
+    "Population": "1,390,000",
+    "lat": "34.4",
+    "lng": "132.45"
   },
   {
     "index": 386,
     "country": "Argentina",
     "city": "Rosario",
-    "Population": "1,385,000"
+    "Population": "1,385,000",
+    "lat": "-32.94682",
+    "lng": "-60.63932"
   },
   {
     "index": 387,
     "country": "China",
     "city": "Xuzhou",
-    "Population": "1,380,000"
+    "Population": "1,380,000",
+    "lat": "34.18045",
+    "lng": "117.15707"
   },
   {
     "index": 388,
     "country": "Chad",
     "city": "N'Djamena",
-    "Population": "1,375,000"
+    "Population": "1,375,000",
+    "lat": "12.10672",
+    "lng": "15.0444"
   },
   {
     "index": 389,
     "country": "China",
     "city": "Wenling",
-    "Population": "1,370,000"
+    "Population": "1,370,000",
+    "lat": "28.37524",
+    "lng": "121.38416"
   },
   {
     "index": 389,
     "country": "India",
     "city": "Asansol",
-    "Population": "1,370,000"
+    "Population": "1,370,000",
+    "lat": "23.68333",
+    "lng": "86.98333"
   },
   {
     "index": 389,
     "country": "India",
     "city": "Jodhpur",
-    "Population": "1,370,000"
+    "Population": "1,370,000",
+    "lat": "26.26841",
+    "lng": "73.00594"
   },
   {
     "index": 389,
     "country": "India",
     "city": "Tiruppur",
-    "Population": "1,370,000"
+    "Population": "1,370,000",
+    "lat": "11.11541",
+    "lng": "77.35456"
   },
   {
     "index": 391,
     "country": "Japan",
     "city": "Sendai",
-    "Population": "1,365,000"
+    "Population": "1,365,000",
+    "lat": "38.26667",
+    "lng": "140.86667"
   },
   {
     "index": 393,
     "country": "Mongolia",
     "city": "Ulaanbaatar",
-    "Population": "1,365,000"
+    "Population": "1,365,000",
+    "lat": "47.90771",
+    "lng": "106.88324"
   },
   {
     "index": 395,
     "country": "Bolivia",
     "city": "Cochabamba",
-    "Population": "1,355,000"
+    "Population": "1,355,000",
+    "lat": "-17.3895",
+    "lng": "-66.1568"
   },
   {
     "index": 395,
     "country": "China",
     "city": "Anyang",
-    "Population": "1,355,000"
+    "Population": "1,355,000",
+    "lat": "36.096",
+    "lng": "114.38278"
   },
   {
     "index": 395,
     "country": "India",
     "city": "Allahabad",
-    "Population": "1,355,000"
+    "Population": "1,355,000",
+    "lat": "25.44478",
+    "lng": "81.84322"
   },
   {
     "index": 398,
     "country": "Morocco",
     "city": "Marrakech",
-    "Population": "1,350,000"
+    "Population": "1,350,000",
+    "lat": "31.63416",
+    "lng": "-7.99994"
   },
   {
     "index": 399,
     "country": "India",
     "city": "Ranchi",
-    "Population": "1,345,000"
+    "Population": "1,345,000",
+    "lat": "23.34316",
+    "lng": "85.3094"
   },
   {
     "index": 399,
     "country": "Indonesia",
     "city": "Surakarta",
-    "Population": "1,345,000"
+    "Population": "1,345,000",
+    "lat": "-7.55611",
+    "lng": "110.83167"
   },
   {
     "index": 401,
     "country": "Bulgaria",
     "city": "Sofia",
-    "Population": "1,330,000"
+    "Population": "1,330,000",
+    "lat": "42.69751",
+    "lng": "23.32415"
   },
   {
     "index": 402,
     "country": "India",
     "city": "Amritsar",
-    "Population": "1,325,000"
+    "Population": "1,325,000",
+    "lat": "31.62234",
+    "lng": "74.87534"
   },
   {
     "index": 403,
     "country": "Saudi Arabia",
     "city": "Medina",
-    "Population": "1,320,000"
+    "Population": "1,320,000",
+    "lat": "24.46861",
+    "lng": "39.61417"
   },
   {
     "index": 403,
     "country": "Uruguay",
     "city": "Montevideo",
-    "Population": "1,320,000"
+    "Population": "1,320,000",
+    "lat": "-34.90328",
+    "lng": "-56.18816"
   },
   {
     "index": 405,
     "country": "Armenia",
     "city": "Yerevan",
-    "Population": "1,315,000"
+    "Population": "1,315,000",
+    "lat": "40.18111",
+    "lng": "44.51361"
   },
   {
     "index": 406,
     "country": "China",
     "city": "Nantong",
-    "Population": "1,310,000"
+    "Population": "1,310,000",
+    "lat": "32.03028",
+    "lng": "120.87472"
   },
   {
     "index": 407,
-    "country": "Congo (Dem. Rep.)",
+    "country": "Democratic Republic of the Congo",
     "city": "Kananga",
-    "Population": "1,305,000"
+    "Population": "1,305,000",
+    "lat": "-5.89624",
+    "lng": "22.41659"
   },
   {
     "index": 407,
     "country": "Denmark",
     "city": "Copenhagen",
-    "Population": "1,305,000"
+    "Population": "1,305,000",
+    "lat": "55.67594",
+    "lng": "12.56553"
   },
   {
     "index": 407,
     "country": "India",
     "city": "Dhanbad",
-    "Population": "1,305,000"
+    "Population": "1,305,000",
+    "lat": "23.80199",
+    "lng": "86.44324"
   },
   {
     "index": 410,
     "country": "China",
     "city": "Qinhuangdao",
-    "Population": "1,300,000"
+    "Population": "1,300,000",
+    "lat": "39.93167",
+    "lng": "119.58833"
   },
   {
     "index": 411,
     "country": "China",
     "city": "Qiqihaer",
-    "Population": "1,295,000"
+    "Population": "1,295,000",
+    "lat": "47.34088",
+    "lng": "123.96045"
   },
   {
     "index": 411,
     "country": "India",
     "city": "Gwalior",
-    "Population": "1,295,000"
+    "Population": "1,295,000",
+    "lat": "26.22983",
+    "lng": "78.17337"
   },
   {
     "index": 413,
     "country": "Canada",
     "city": "Calgary",
-    "Population": "1,290,000"
+    "Population": "1,290,000",
+    "lat": "51.05011",
+    "lng": "-114.08529"
   },
   {
     "index": 413,
     "country": "India",
-    "city": "Durg-Bhilainagar",
-    "Population": "1,290,000"
+    "city": "Durg",
+    "Population": "1,290,000",
+    "lat": "21.19147",
+    "lng": "81.27619"
   },
   {
     "index": 413,
     "country": "Nigeria",
     "city": "Aba",
-    "Population": "1,290,000"
+    "Population": "1,290,000",
+    "lat": "5.10658",
+    "lng": "7.36667"
   },
   {
     "index": 416,
     "country": "Indonesia",
     "city": "Malang",
-    "Population": "1,265,000"
+    "Population": "1,265,000",
+    "lat": "-7.9797",
+    "lng": "112.6304"
   },
   {
     "index": 417,
     "country": "China",
     "city": "Mianyang",
-    "Population": "1,260,000"
+    "Population": "1,260,000",
+    "lat": "31.46784",
+    "lng": "104.68168"
   },
   {
     "index": 418,
     "country": "Iraq",
     "city": "Irbil",
-    "Population": "1,255,000"
+    "Population": "1,255,000",
+    "lat": "36.18333",
+    "lng": "44.01193"
   },
   {
     "index": 419,
     "country": "China",
-    "city": "Ruian",
-    "Population": "1,250,000"
+    "city": "Ru'ian",
+    "Population": "1,250,000",
+    "lat": "27.77605",
+    "lng": "120.65859"
   },
   {
     "index": 419,
     "country": "Finland",
     "city": "Helsinki",
-    "Population": "1,250,000"
+    "Population": "1,250,000",
+    "lat": "60.16952",
+    "lng": "24.93545"
   },
   {
     "index": 419,
     "country": "South Africa",
     "city": "Port Elizabeth",
-    "Population": "1,250,000"
+    "Population": "1,250,000",
+    "lat": "-33.96109",
+    "lng": "25.61494"
   },
   {
     "index": 419,
     "country": "Turkey",
     "city": "Konya",
-    "Population": "1,250,000"
+    "Population": "1,250,000",
+    "lat": "37.87135",
+    "lng": "32.48464"
   },
   {
     "index": 423,
     "country": "Rwanda",
     "city": "Kigali",
-    "Population": "1,245,000"
+    "Population": "1,245,000",
+    "lat": "-1.94995",
+    "lng": "30.05885"
   },
   {
     "index": 424,
     "country": "Indonesia",
-    "city": "Pekan Baru",
-    "Population": "1,240,000"
+    "city": "Pekanbaru",
+    "Population": "1,240,000",
+    "lat": "0.51667",
+    "lng": "101.44167"
   },
   {
     "index": 424,
     "country": "United Kingdom",
     "city": "Glasgow",
-    "Population": "1,240,000"
+    "Population": "1,240,000",
+    "lat": "55.86515",
+    "lng": "-4.25763"
   },
   {
     "index": 426,
     "country": "Brazil",
     "city": "Sao Luis",
-    "Population": "1,235,000"
+    "Population": "1,235,000",
+    "lat": "-2.52972",
+    "lng": "-44.30278"
   },
   {
     "index": 426,
     "country": "China",
     "city": "Qujing",
-    "Population": "1,235,000"
+    "Population": "1,235,000",
+    "lat": "25.48333",
+    "lng": "103.78333"
   },
   {
     "index": 426,
     "country": "China",
     "city": "Xiangyang",
-    "Population": "1,235,000"
+    "Population": "1,235,000",
+    "lat": "32.0422",
+    "lng": "112.14479"
   },
   {
     "index": 426,
     "country": "Kenya",
     "city": "Mombasa",
-    "Population": "1,235,000"
+    "Population": "1,235,000",
+    "lat": "-4.05466",
+    "lng": "39.66359"
   },
   {
     "index": 430,
     "country": "Syria",
     "city": "Hama",
-    "Population": "1,230,000"
+    "Population": "1,230,000",
+    "lat": "35.13179",
+    "lng": "36.75783"
   },
   {
     "index": 431,
     "country": "Benin",
     "city": "Cotonou",
-    "Population": "1,225,000"
+    "Population": "1,225,000",
+    "lat": "6.36536",
+    "lng": "2.41833"
   },
   {
     "index": 432,
     "country": "Brazil",
-    "city": "Vittoria",
-    "Population": "1,220,000"
+    "city": "Vitoria",
+    "Population": "1,220,000",
+    "lat": "-20.31944",
+    "lng": "-40.33778"
   },
   {
     "index": 432,
     "country": "Ireland",
     "city": "Dublin",
-    "Population": "1,220,000"
+    "Population": "1,220,000",
+    "lat": "53.33306",
+    "lng": "-6.24889"
   },
   {
     "index": 434,
     "country": "Honduras",
     "city": "Tegucigalpa",
-    "Population": "1,210,000"
+    "Population": "1,210,000",
+    "lat": "14.0818",
+    "lng": "-87.20681"
   },
   {
     "index": 434,
     "country": "Mexico",
     "city": "Torreon",
-    "Population": "1,210,000"
+    "Population": "1,210,000",
+    "lat": "25.54389",
+    "lng": "-103.41898"
   },
   {
     "index": 436,
     "country": "China",
     "city": "Hengyang",
-    "Population": "1,205,000"
+    "Population": "1,205,000",
+    "lat": "26.88946",
+    "lng": "112.61888"
   },
   {
     "index": 436,
     "country": "China",
     "city": "Zhangjiakou",
-    "Population": "1,205,000"
+    "Population": "1,205,000",
+    "lat": "40.81",
+    "lng": "114.87944"
   },
   {
     "index": 436,
     "country": "India",
     "city": "Chandigarh",
-    "Population": "1,205,000"
+    "Population": "1,205,000",
+    "lat": "30.73629",
+    "lng": "76.7884"
   },
   {
     "index": 439,
-    "country": "China: Taiwan",
+    "country": "Taiwan",
     "city": "Tainan",
-    "Population": "1,195,000"
+    "Population": "1,195,000",
+    "lat": "22.99083",
+    "lng": "120.21333"
   },
   {
     "index": 439,
     "country": "Morocco",
     "city": "Fez",
-    "Population": "1,195,000"
+    "Population": "1,195,000",
+    "lat": "34.03313",
+    "lng": "-5.00028"
   },
   {
     "index": 439,
     "country": "Venezuela",
     "city": "Maracay",
-    "Population": "1,195,000"
+    "Population": "1,195,000",
+    "lat": "10.23535",
+    "lng": "-67.59113"
   },
   {
     "index": 442,
-    "country": "Viet Nam",
+    "country": "Vietnam",
     "city": "Hai Phong",
-    "Population": "1,190,000"
+    "Population": "1,190,000",
+    "lat": "20.86481",
+    "lng": "106.68345"
   },
   {
     "index": 443,
     "country": "Australia",
     "city": "Adelaide",
-    "Population": "1,185,000"
+    "Population": "1,185,000",
+    "lat": "-34.92866",
+    "lng": "138.59863"
   },
   {
     "index": 443,
     "country": "China",
     "city": "Huzhou",
-    "Population": "1,185,000"
+    "Population": "1,185,000",
+    "lat": "30.8703",
+    "lng": "120.0933"
   },
   {
     "index": 443,
     "country": "India",
     "city": "Bareilly",
-    "Population": "1,185,000"
+    "Population": "1,185,000",
+    "lat": "28.36678",
+    "lng": "79.43167"
   },
   {
     "index": 443,
     "country": "Indonesia",
     "city": "Cirebon",
-    "Population": "1,185,000"
+    "Population": "1,185,000",
+    "lat": "-6.7063",
+    "lng": "108.557"
   },
   {
     "index": 443,
     "country": "Iran",
     "city": "Qom",
-    "Population": "1,185,000"
+    "Population": "1,185,000",
+    "lat": "34.6401",
+    "lng": "50.8764"
   },
   {
     "index": 443,
     "country": "Turkey",
     "city": "Adana",
-    "Population": "1,185,000"
+    "Population": "1,185,000",
+    "lat": "37.00167",
+    "lng": "35.32889"
   },
   {
     "index": 449,
     "country": "Japan",
     "city": "Naha",
-    "Population": "1,165,000"
+    "Population": "1,165,000",
+    "lat": "26.21667",
+    "lng": "127.68333"
   },
   {
     "index": 449,
     "country": "United States",
     "city": "Jacksonville",
-    "Population": "1,180,000"
+    "Population": "1,180,000",
+    "lat": "30.33218",
+    "lng": "-81.65565"
   },
   {
     "index": 450,
     "country": "China",
     "city": "Zhucheng",
-    "Population": "1,170,000"
+    "Population": "1,170,000",
+    "lat": "36.00222",
+    "lng": "119.43194"
   },
   {
     "index": 451,
     "country": "India",
     "city": "Tiruchirappalli",
-    "Population": "1,165,000"
+    "Population": "1,165,000",
+    "lat": "10.8155",
+    "lng": "78.69651"
   },
   {
     "index": 453,
     "country": "China",
     "city": "Lianyungang",
-    "Population": "1,160,000"
+    "Population": "1,160,000",
+    "lat": "34.56743",
+    "lng": "118.87344"
   },
   {
     "index": 453,
     "country": "Mexico",
     "city": "San Luis Potosí",
-    "Population": "1,160,000"
+    "Population": "1,160,000",
+    "lat": "22.14982",
+    "lng": "-100.97916"
   },
   {
     "index": 453,
     "country": "Russia",
     "city": "Chelyabinsk",
-    "Population": "1,160,000"
+    "Population": "1,160,000",
+    "lat": "55.15402",
+    "lng": "61.42915"
   },
   {
     "index": 456,
     "country": "Russia",
     "city": "Omsk",
-    "Population": "1,155,000"
+    "Population": "1,155,000",
+    "lat": "54.99244",
+    "lng": "73.36859"
   },
   {
     "index": 457,
     "country": "China",
     "city": "Huaibei",
-    "Population": "1,150,000"
+    "Population": "1,150,000",
+    "lat": "33.97444",
+    "lng": "116.79167"
   },
   {
     "index": 457,
     "country": "India",
     "city": "Mysore",
-    "Population": "1,150,000"
+    "Population": "1,150,000",
+    "lat": "12.29791",
+    "lng": "76.63925"
   },
   {
     "index": 457,
     "country": "Russia",
     "city": "Kazan",
-    "Population": "1,150,000"
+    "Population": "1,150,000",
+    "lat": "55.78874",
+    "lng": "49.12214"
   },
   {
     "index": 460,
     "country": "China",
     "city": "Zhenjiang",
-    "Population": "1,145,000"
+    "Population": "1,145,000",
+    "lat": "32.21086",
+    "lng": "119.45508"
   },
   {
     "index": 460,
     "country": "Morocco",
     "city": "Tanger",
-    "Population": "1,145,000"
+    "Population": "1,145,000",
+    "lat": "35.76727",
+    "lng": "-5.79975"
   },
   {
     "index": 460,
     "country": "Russia",
     "city": "Samara",
-    "Population": "1,145,000"
+    "Population": "1,145,000",
+    "lat": "53.20007",
+    "lng": "50.15"
   },
   {
     "index": 463,
     "country": "China",
     "city": "Jieyang",
-    "Population": "1,140,000"
+    "Population": "1,140,000",
+    "lat": "23.5418",
+    "lng": "116.36581"
   },
   {
     "index": 463,
     "country": "Nigeria",
     "city": "Kaduna",
-    "Population": "1,140,000"
+    "Population": "1,140,000",
+    "lat": "10.52641",
+    "lng": "7.43879"
   },
   {
     "index": 465,
     "country": "China",
     "city": "Dongying",
-    "Population": "1,135,000"
+    "Population": "1,135,000",
+    "lat": "37.46271",
+    "lng": "118.49165"
   },
   {
     "index": 465,
     "country": "Laos",
     "city": "Vientiane",
-    "Population": "1,135,000"
+    "Population": "1,135,000",
+    "lat": "17.96667",
+    "lng": "102.6"
   },
   {
     "index": 467,
     "country": "Libya",
     "city": "Tripoli",
-    "Population": "1,130,000"
+    "Population": "1,130,000",
+    "lat": "32.87519",
+    "lng": "13.18746"
   },
   {
     "index": 468,
     "country": "India",
     "city": "Kota",
-    "Population": "1,125,000"
+    "Population": "1,125,000",
+    "lat": "25.18254",
+    "lng": "75.83907"
   },
   {
     "index": 469,
     "country": "Brazil",
     "city": "Natal",
-    "Population": "1,120,000"
+    "Population": "1,120,000",
+    "lat": "-5.795",
+    "lng": "-35.20944"
   },
   {
     "index": 469,
-    "country": "Congo (Dem. Rep.)",
+    "country": "Democratic Republic of the Congo",
     "city": "Kisangani",
-    "Population": "1,120,000"
+    "Population": "1,120,000",
+    "lat": "0.51528",
+    "lng": "25.19099"
   },
   {
     "index": 469,
     "country": "Israel",
     "city": "Haifa",
-    "Population": "1,120,000"
+    "Population": "1,120,000",
+    "lat": "32.81841",
+    "lng": "34.9885"
   },
   {
     "index": 472,
     "country": "Spain",
     "city": "Seville",
-    "Population": "1,115,000"
+    "Population": "1,115,000",
+    "lat": "37.38283",
+    "lng": "-5.97317"
   },
   {
     "index": 472,
     "country": "Uzbekistan",
     "city": "Samarkand",
-    "Population": "1,115,000"
+    "Population": "1,115,000",
+    "lat": "39.65417",
+    "lng": "66.95972"
   },
   {
     "index": 474,
     "country": "China",
     "city": "Zhanjiang",
-    "Population": "1,110,000"
+    "Population": "1,110,000",
+    "lat": "21.28145",
+    "lng": "110.34271"
   },
   {
     "index": 474,
     "country": "India",
     "city": "Aligarh",
-    "Population": "1,110,000"
+    "Population": "1,110,000",
+    "lat": "27.88145",
+    "lng": "78.07464"
   },
   {
     "index": 474,
     "country": "Iraq",
     "city": "Sulaimaniya",
-    "Population": "1,110,000"
+    "Population": "1,110,000",
+    "lat": "35.56496",
+    "lng": "45.4329"
   },
   {
     "index": 474,
     "country": "Turkey",
     "city": "Kayseri",
-    "Population": "1,110,000"
+    "Population": "1,110,000",
+    "lat": "38.73222",
+    "lng": "35.48528"
   },
   {
     "index": 474,
     "country": "United States",
     "city": "Nashville",
-    "Population": "1,110,000"
+    "Population": "1,110,000",
+    "lat": "36.16589",
+    "lng": "-86.78444"
   },
   {
     "index": 479,
     "country": "Canada",
     "city": "Edmonton",
-    "Population": "1,105,000"
+    "Population": "1,105,000",
+    "lat": "53.55014",
+    "lng": "-113.46871"
   },
   {
     "index": 479,
     "country": "Georgia",
     "city": "Tblisi",
-    "Population": "1,105,000"
+    "Population": "1,105,000",
+    "lat": "41.69411",
+    "lng": "44.83368"
   },
   {
     "index": 481,
     "country": "Brazil",
     "city": "Joao Pessoa",
-    "Population": "1,100,000"
+    "Population": "1,100,000",
+    "lat": "-7.115",
+    "lng": "-34.86306"
   },
   {
     "index": 481,
     "country": "India",
     "city": "Moradabad",
-    "Population": "1,100,000"
+    "Population": "1,100,000",
+    "lat": "28.83893",
+    "lng": "78.77684"
   },
   {
     "index": 481,
     "country": "Saudi Arabia",
     "city": "Ad-Dammam",
-    "Population": "1,100,000"
+    "Population": "1,100,000",
+    "lat": "26.43442",
+    "lng": "50.10326"
   },
   {
     "index": 481,
     "country": "Ukraine",
     "city": "Odessa",
-    "Population": "1,100,000"
+    "Population": "1,100,000",
+    "lat": "46.47747",
+    "lng": "30.73262"
   },
   {
     "index": 485,
     "country": "India",
     "city": "Guwahati",
-    "Population": "1,095,000"
+    "Population": "1,095,000",
+    "lat": "26.1844",
+    "lng": "91.7458"
   },
   {
     "index": 486,
     "country": "China",
     "city": "Pingdingshan",
-    "Population": "1,090,000"
+    "Population": "1,090,000",
+    "lat": "33.73847",
+    "lng": "113.30119"
   },
   {
     "index": 486,
     "country": "Colombia",
     "city": "Bucaramanga",
-    "Population": "1,090,000"
+    "Population": "1,090,000",
+    "lat": "7.12539",
+    "lng": "-73.1198"
   },
   {
     "index": 486,
     "country": "Serbia",
     "city": "Belgrade",
-    "Population": "1,090,000"
+    "Population": "1,090,000",
+    "lat": "44.80401",
+    "lng": "20.46513"
   },
   {
     "index": 489,
     "country": "United States",
     "city": "Memphis",
-    "Population": "1,085,000"
+    "Population": "1,085,000",
+    "lat": "35.14953",
+    "lng": "-90.04898"
   },
   {
     "index": 490,
     "country": "Honduras",
     "city": "San Pedro Sula",
-    "Population": "1,080,000"
+    "Population": "1,080,000",
+    "lat": "15.50417",
+    "lng": "-88.025"
   },
   {
     "index": 490,
     "country": "Mexico",
     "city": "Queretaro",
-    "Population": "1,080,000"
+    "Population": "1,080,000",
+    "lat": "20.58806",
+    "lng": "-100.38806"
   },
   {
     "index": 490,
     "country": "Russia",
     "city": "Rostov",
-    "Population": "1,080,000"
+    "Population": "1,080,000",
+    "lat": "47.23135",
+    "lng": "39.72328"
   },
   {
     "index": 493,
     "country": "China",
     "city": "Xiangtan",
-    "Population": "1,075,000"
+    "Population": "1,075,000",
+    "lat": "27.85",
+    "lng": "112.9"
   },
   {
     "index": 494,
     "country": "India",
     "city": "Bhubaneswar",
-    "Population": "1,070,000"
+    "Population": "1,070,000",
+    "lat": "20.27241",
+    "lng": "85.83385"
   },
   {
     "index": 495,
     "country": "China",
     "city": "Yancheng",
-    "Population": "1,065,000"
+    "Population": "1,065,000",
+    "lat": "33.3575",
+    "lng": "120.1573"
   },
   {
     "index": 495,
     "country": "France",
     "city": "Lille",
-    "Population": "1,065,000"
+    "Population": "1,065,000",
+    "lat": "50.63297",
+    "lng": "3.05858"
   },
   {
     "index": 495,
     "country": "Iraq",
     "city": "Basra",
-    "Population": "1,065,000"
+    "Population": "1,065,000",
+    "lat": "30.50852",
+    "lng": "47.7804"
   },
   {
     "index": 495,
     "country": "Russia",
     "city": "Ufa",
-    "Population": "1,065,000"
+    "Population": "1,065,000",
+    "lat": "54.74306",
+    "lng": "55.96779"
   },
   {
     "index": 499,
     "country": "China",
     "city": "Zhuzhou",
-    "Population": "1,060,000"
+    "Population": "1,060,000",
+    "lat": "27.83333",
+    "lng": "113.15"
   },
   {
     "index": 499,
     "country": "Colombia",
     "city": "Cartagena",
-    "Population": "1,060,000"
+    "Population": "1,060,000",
+    "lat": "10.39972",
+    "lng": "-75.51444"
   },
   {
     "index": 499,
     "country": "India",
     "city": "Salem",
-    "Population": "1,060,000"
+    "Population": "1,060,000",
+    "lat": "11.65376",
+    "lng": "78.15538"
   },
   {
     "index": 502,
     "country": "Mexico",
     "city": "Merida",
-    "Population": "1,055,000"
+    "Population": "1,055,000",
+    "lat": "20.97537",
+    "lng": "-89.61696"
   },
   {
     "index": 503,
     "country": "Bangladesh",
     "city": "Khulna",
-    "Population": "1,050,000"
+    "Population": "1,050,000",
+    "lat": "22.80979",
+    "lng": "89.56439"
   },
   {
     "index": 503,
     "country": "Russia",
     "city": "Volgograd",
-    "Population": "1,050,000"
+    "Population": "1,050,000",
+    "lat": "48.71939",
+    "lng": "44.50183"
   },
   {
     "index": 505,
-    "country": "Congo",
+    "country": "Republic of the Congo",
     "city": "Pointe Noire",
-    "Population": "1,045,000"
+    "Population": "1,045,000",
+    "lat": "-4.77609",
+    "lng": "11.86352"
   },
   {
     "index": 505,
     "country": "Pakistan",
     "city": "Bahawalpur",
-    "Population": "1,045,000"
+    "Population": "1,045,000",
+    "lat": "29.99835",
+    "lng": "73.25272"
   },
   {
     "index": 507,
     "country": "Algeria",
     "city": "Wahran",
-    "Population": "1,040,000"
+    "Population": "1,040,000",
+    "lat": "35.69906",
+    "lng": "-0.63588"
   },
   {
     "index": 507,
     "country": "China",
     "city": "Benxi",
-    "Population": "1,040,000"
+    "Population": "1,040,000",
+    "lat": "41.28861",
+    "lng": "123.765"
   },
   {
     "index": 507,
-    "country": "Viet Nam",
+    "country": "Vietnam",
     "city": "Da Nang",
-    "Population": "1,040,000"
+    "Population": "1,040,000",
+    "lat": "16.06778",
+    "lng": "108.22083"
   },
   {
     "index": 510,
     "country": "Mexico",
     "city": "Morelia",
-    "Population": "1,035,000"
+    "Population": "1,035,000",
+    "lat": "19.70078",
+    "lng": "-101.18443"
   },
   {
     "index": 510,
     "country": "Pakistan",
     "city": "Quetta",
-    "Population": "1,035,000"
+    "Population": "1,035,000",
+    "lat": "30.18414",
+    "lng": "67.00141"
   },
   {
     "index": 512,
     "country": "Argentina",
     "city": "Mendoza",
-    "Population": "1,030,000"
+    "Population": "1,030,000",
+    "lat": "-32.89084",
+    "lng": "-68.82717"
   },
   {
     "index": 512,
     "country": "China",
     "city": "Rizhao",
-    "Population": "1,030,000"
+    "Population": "1,030,000",
+    "lat": "35.4275",
+    "lng": "119.45528"
   },
   {
     "index": 512,
     "country": "United States",
     "city": "Louisville",
-    "Population": "1,030,000"
+    "Population": "1,030,000",
+    "lat": "38.25424",
+    "lng": "-85.75941"
   },
   {
     "index": 512,
     "country": "United States",
     "city": "Richmond",
-    "Population": "1,030,000"
+    "Population": "1,030,000",
+    "lat": "37.55376",
+    "lng": "-77.46026"
   },
   {
     "index": 516,
     "country": "Brazil",
     "city": "Maceio",
-    "Population": "1,025,000"
+    "Population": "1,025,000",
+    "lat": "-9.66583",
+    "lng": "-35.73528"
   },
   {
     "index": 516,
     "country": "Malawi",
     "city": "Lilongwe",
-    "Population": "1,025,000"
+    "Population": "1,025,000",
+    "lat": "-13.96692",
+    "lng": "33.78725"
   },
   {
     "index": 516,
     "country": "Norway",
     "city": "Oslo",
-    "Population": "1,025,000"
+    "Population": "1,025,000",
+    "lat": "59.91273",
+    "lng": "10.74609"
   },
   {
     "index": 519,
     "country": "Belgium",
     "city": "Antwerp",
-    "Population": "1,020,000"
+    "Population": "1,020,000",
+    "lat": "51.21989",
+    "lng": "4.40346"
   },
   {
     "index": 519,
     "country": "Canada",
     "city": "Ottawa",
-    "Population": "1,020,000"
+    "Population": "1,020,000",
+    "lat": "45.41117",
+    "lng": "-75.69812"
   },
   {
     "index": 519,
     "country": "China",
-    "city": "Kashi",
-    "Population": "1,020,000"
+    "city": "Kashgar",
+    "Population": "1,020,000",
+    "lat": "39.47066",
+    "lng": "75.98951"
   },
   {
     "index": 519,
     "country": "India",
     "city": "Solapur",
-    "Population": "1,020,000"
+    "Population": "1,020,000",
+    "lat": "17.67152",
+    "lng": "75.91044"
   }
 ]
